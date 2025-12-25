@@ -1,0 +1,372 @@
+.start-page {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #667eea 0%, #b7f368 100%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  position: relative;
+}
+
+.loading {
+  font-size: 1.5rem;
+  color: #333;
+}
+
+/* 左上角返回按钮 */
+.back-button {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  background: rgba(255, 255, 255, 0.9);
+  border: none;
+  padding: 10px 20px;
+  border-radius: 25px;
+  font-size: clamp(0.9rem, 2vw, 1rem);
+  font-weight: 600;
+  color: #333;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  z-index: 100;
+}
+
+.back-button:hover {
+  background: rgba(255, 255, 255, 1);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+}
+
+/* 右上角计数 */
+.score-container {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(255, 255, 255, 0.9);
+  padding: 8px 16px;
+  border-radius: 25px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  z-index: 100;
+}
+
+/* 答对提示框 */
+.success-tip {
+  position: fixed;
+  top: 80px;
+  right: 20px;
+  background: linear-gradient(135deg, #4ade80 0%, #22c55e 100%);
+  color: white;
+  padding: 12px 20px;
+  border-radius: 15px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+  z-index: 200;
+  animation: popIn 0.3s ease-out;
+}
+
+@keyframes popIn {
+  0% {
+    transform: scale(0.5) translateY(-20px);
+    opacity: 0;
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1) translateY(0);
+    opacity: 1;
+  }
+}
+
+.score-image {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+
+.score-text {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #333;
+}
+
+/* 单词容器 */
+.word-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  margin-bottom: 30px;
+  flex-wrap: wrap;
+}
+
+.word-label {
+  font-size: 1rem;
+  color: #666;
+  font-weight: 500;
+}
+
+.word-text {
+  font-size: clamp(2rem, 6vw, 3.5rem);
+  font-weight: bold;
+  color: #333;
+}
+
+.audio-button {
+  background: #ff6b9d;
+  border: none;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  font-size: 1.5rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.audio-button:hover {
+  transform: scale(1.1);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+}
+
+.audio-button:active {
+  transform: scale(0.95);
+}
+
+/* 图片容器 */
+.image-wrapper {
+  margin: 30px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-wrapper.shaking {
+  animation: shake 1s ease-in-out infinite;
+}
+
+@keyframes shake {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-15px);
+  }
+}
+
+.status-image {
+  max-width: 300px;
+  max-height: 300px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  transition: all 0.3s ease;
+}
+
+/* 提示文字 */
+.hint-text {
+  font-size: clamp(0.9rem, 2vw, 1.1rem);
+  color: #666;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* 选项容器 */
+.options-container {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 900px;
+  width: 100%;
+}
+
+.option-button {
+  flex: 1;
+  min-width: 200px;
+  max-width: 280px;
+  padding: 20px 25px;
+  border: none;
+  border-radius: 15px;
+  font-size: clamp(1rem, 2.5vw, 1.2rem);
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  color: #333;
+}
+
+.option-left {
+  background: linear-gradient(135deg, #a8e6cf 0%, #88d8a3 100%);
+}
+
+.option-center {
+  background: linear-gradient(135deg, #ffd3a5 0%, #fd9853 100%);
+}
+
+.option-right {
+  background: linear-gradient(135deg, #a8c8ec 0%, #7ba3d8 100%);
+}
+
+.option-button:hover:not(:disabled) {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+}
+
+.option-button:active:not(:disabled) {
+  transform: translateY(0);
+}
+
+.option-button:disabled {
+  cursor: not-allowed;
+  opacity: 0.7;
+}
+
+.option-button.correct {
+  background: linear-gradient(135deg, #4ade80 0%, #22c55e 100%);
+  color: white;
+  animation: correctPulse 0.5s ease;
+}
+
+.option-button.wrong {
+  background: linear-gradient(135deg, #f87171 0%, #ef4444 100%);
+  color: white;
+  animation: wrongShake 0.5s ease;
+}
+
+@keyframes correctPulse {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+}
+
+@keyframes wrongShake {
+  0%, 100% {
+    transform: translateX(0);
+  }
+  25% {
+    transform: translateX(-10px);
+  }
+  75% {
+    transform: translateX(10px);
+  }
+}
+
+/* 手机端优化 */
+@media (max-width: 768px) {
+  .start-page {
+    padding: 15px;
+    padding-top: 80px;
+  }
+
+  .back-button {
+    top: 10px;
+    left: 10px;
+    padding: 8px 16px;
+    font-size: 0.85rem;
+  }
+
+  .score-container {
+    top: 10px;
+    right: 10px;
+    padding: 6px 12px;
+  }
+
+  .success-tip {
+    top: 70px;
+    right: 10px;
+    padding: 10px 16px;
+    font-size: 1rem;
+  }
+
+  .score-image {
+    width: 20px;
+    height: 20px;
+  }
+
+  .score-text {
+    font-size: 1rem;
+  }
+
+  .word-container {
+    margin-bottom: 20px;
+    gap: 8px;
+  }
+
+  .word-text {
+    font-size: 2rem;
+  }
+
+  .audio-button {
+    width: 40px;
+    height: 40px;
+    font-size: 1.2rem;
+  }
+
+  .image-wrapper {
+    margin: 20px 0;
+  }
+
+  .status-image {
+    max-width: 200px;
+    max-height: 200px;
+  }
+
+  .options-container {
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .option-button {
+    min-width: 100%;
+    max-width: 100%;
+    padding: 18px 20px;
+  }
+}
+
+/* 小屏幕手机优化 */
+@media (max-width: 480px) {
+  .start-page {
+    padding-top: 70px;
+  }
+
+  .back-button {
+    top: 8px;
+    left: 8px;
+    padding: 6px 12px;
+    font-size: 0.8rem;
+  }
+
+  .success-tip {
+    top: 60px;
+    right: 8px;
+    padding: 8px 14px;
+    font-size: 0.9rem;
+  }
+
+  .word-text {
+    font-size: 1.8rem;
+  }
+
+  .status-image {
+    max-width: 150px;
+    max-height: 150px;
+  }
+
+  .option-button {
+    padding: 15px 18px;
+    font-size: 0.95rem;
+  }
+}
+

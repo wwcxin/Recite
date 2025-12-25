@@ -1,0 +1,6957 @@
+[
+  {
+    "wordRank": 1,
+    "headWord": "access",
+    "usspeech": "access&type=2",
+    "tranCn": "获取；接近，入口"
+  },
+  {
+    "wordRank": 2,
+    "headWord": "project",
+    "usspeech": "project&type=2",
+    "tranCn": "工程；课题、作业"
+  },
+  {
+    "wordRank": 3,
+    "headWord": "intention",
+    "usspeech": "intention&type=2",
+    "tranCn": "打算，意图"
+  },
+  {
+    "wordRank": 4,
+    "headWord": "equivalence",
+    "usspeech": "equivalence&type=2",
+    "tranCn": "等值，相等"
+  },
+  {
+    "wordRank": 5,
+    "headWord": "negotiate",
+    "usspeech": "negotiate&type=2",
+    "tranCn": "谈判，协商，交涉"
+  },
+  {
+    "wordRank": 6,
+    "headWord": "disappointing",
+    "usspeech": "disappointing&type=2",
+    "tranCn": "令人失望的"
+  },
+  {
+    "wordRank": 7,
+    "headWord": "alternative",
+    "usspeech": "alternative&type=2",
+    "tranCn": "代替品"
+  },
+  {
+    "wordRank": 8,
+    "headWord": "generous",
+    "usspeech": "generous&type=2",
+    "tranCn": "慷慨的"
+  },
+  {
+    "wordRank": 9,
+    "headWord": "biological",
+    "usspeech": "biological&type=2",
+    "tranCn": "生物的"
+  },
+  {
+    "wordRank": 10,
+    "headWord": "strategy",
+    "usspeech": "strategy&type=2",
+    "tranCn": "策略，战略"
+  },
+  {
+    "wordRank": 11,
+    "headWord": "paradox",
+    "usspeech": "paradox&type=2",
+    "tranCn": "悖论；自相矛盾"
+  },
+  {
+    "wordRank": 12,
+    "headWord": "primary",
+    "usspeech": "primary&type=2",
+    "tranCn": "主要的，基本的"
+  },
+  {
+    "wordRank": 13,
+    "headWord": "standpoint",
+    "usspeech": "standpoint&type=2",
+    "tranCn": "立场"
+  },
+  {
+    "wordRank": 14,
+    "headWord": "grab",
+    "usspeech": "grab&type=2",
+    "tranCn": "抢先，抢占，抢夺"
+  },
+  {
+    "wordRank": 15,
+    "headWord": "crucial",
+    "usspeech": "crucial&type=2",
+    "tranCn": "至关重要的"
+  },
+  {
+    "wordRank": 16,
+    "headWord": "flaw",
+    "usspeech": "flaw&type=2",
+    "tranCn": "缺点；错误"
+  },
+  {
+    "wordRank": 17,
+    "headWord": "depressed",
+    "usspeech": "depressed&type=2",
+    "tranCn": "萧条的；沮丧的"
+  },
+  {
+    "wordRank": 18,
+    "headWord": "obstacle",
+    "usspeech": "obstacle&type=2",
+    "tranCn": "阻碍"
+  },
+  {
+    "wordRank": 19,
+    "headWord": "automatic",
+    "usspeech": "automatic&type=2",
+    "tranCn": "自动的"
+  },
+  {
+    "wordRank": 20,
+    "headWord": "passionate",
+    "usspeech": "passionate&type=2",
+    "tranCn": "热情的"
+  },
+  {
+    "wordRank": 21,
+    "headWord": "gambling",
+    "usspeech": "gambling&type=2",
+    "tranCn": "赌博"
+  },
+  {
+    "wordRank": 22,
+    "headWord": "logic",
+    "usspeech": "logic&type=2",
+    "tranCn": "逻辑"
+  },
+  {
+    "wordRank": 23,
+    "headWord": "theory",
+    "usspeech": "theory&type=2",
+    "tranCn": "理论"
+  },
+  {
+    "wordRank": 24,
+    "headWord": "download",
+    "usspeech": "download&type=2",
+    "tranCn": "下载"
+  },
+  {
+    "wordRank": 25,
+    "headWord": "signal",
+    "usspeech": "signal&type=2",
+    "tranCn": "信号；发信号，打信号；示意"
+  },
+  {
+    "wordRank": 26,
+    "headWord": "authoritative",
+    "usspeech": "authoritative&type=2",
+    "tranCn": "权威的"
+  },
+  {
+    "wordRank": 27,
+    "headWord": "smooth",
+    "usspeech": "smooth&type=2",
+    "tranCn": "光滑的"
+  },
+  {
+    "wordRank": 28,
+    "headWord": "institution",
+    "usspeech": "institution&type=2",
+    "tranCn": "社会公共机构；制度；设立，制定"
+  },
+  {
+    "wordRank": 29,
+    "headWord": "vehicle",
+    "usspeech": "vehicle&type=2",
+    "tranCn": "车辆"
+  },
+  {
+    "wordRank": 30,
+    "headWord": "plague",
+    "usspeech": "plague&type=2",
+    "tranCn": "使困扰"
+  },
+  {
+    "wordRank": 31,
+    "headWord": "psychological",
+    "usspeech": "psychological&type=2",
+    "tranCn": "心理上的"
+  },
+  {
+    "wordRank": 32,
+    "headWord": "shade",
+    "usspeech": "shade&type=2",
+    "tranCn": "阴凉处"
+  },
+  {
+    "wordRank": 33,
+    "headWord": "persistent",
+    "usspeech": "persistent&type=2",
+    "tranCn": "持续的；坚持的"
+  },
+  {
+    "wordRank": 34,
+    "headWord": "voluntary",
+    "usspeech": "voluntary&type=2",
+    "tranCn": "自愿的，主动的"
+  },
+  {
+    "wordRank": 35,
+    "headWord": "tolerance",
+    "usspeech": "tolerance&type=2",
+    "tranCn": "宽容，容忍"
+  },
+  {
+    "wordRank": 36,
+    "headWord": "senior",
+    "usspeech": "senior&type=2",
+    "tranCn": "老年人"
+  },
+  {
+    "wordRank": 37,
+    "headWord": "individual",
+    "usspeech": "individual&type=2",
+    "tranCn": "个人"
+  },
+  {
+    "wordRank": 38,
+    "headWord": "contemporary",
+    "usspeech": "contemporary&type=2",
+    "tranCn": "当代的，现代的"
+  },
+  {
+    "wordRank": 39,
+    "headWord": "opposite",
+    "usspeech": "opposite&type=2",
+    "tranCn": "相反的"
+  },
+  {
+    "wordRank": 40,
+    "headWord": "specialize",
+    "usspeech": "specialize&type=2",
+    "tranCn": "专业从事"
+  },
+  {
+    "wordRank": 41,
+    "headWord": "content",
+    "usspeech": "content&type=2",
+    "tranCn": "内容"
+  },
+  {
+    "wordRank": 42,
+    "headWord": "philosopher",
+    "usspeech": "philosopher&type=2",
+    "tranCn": "哲学家"
+  },
+  {
+    "wordRank": 43,
+    "headWord": "unrest",
+    "usspeech": "unrest&type=2",
+    "tranCn": "不安定，动荡"
+  },
+  {
+    "wordRank": 44,
+    "headWord": "startle",
+    "usspeech": "startle&type=2",
+    "tranCn": "吃惊"
+  },
+  {
+    "wordRank": 45,
+    "headWord": "emission",
+    "usspeech": "emission&type=2",
+    "tranCn": "排放，辐射"
+  },
+  {
+    "wordRank": 46,
+    "headWord": "overweight",
+    "usspeech": "overweight&type=2",
+    "tranCn": "超重的"
+  },
+  {
+    "wordRank": 47,
+    "headWord": "occupation",
+    "usspeech": "occupation&type=2",
+    "tranCn": "职业，工作"
+  },
+  {
+    "wordRank": 48,
+    "headWord": "mainstream",
+    "usspeech": "mainstream&type=2",
+    "tranCn": "主流"
+  },
+  {
+    "wordRank": 49,
+    "headWord": "scholarship",
+    "usspeech": "scholarship&type=2",
+    "tranCn": "奖学金"
+  },
+  {
+    "wordRank": 50,
+    "headWord": "contract",
+    "usspeech": "contract&type=2",
+    "tranCn": "合同"
+  },
+  {
+    "wordRank": 51,
+    "headWord": "cheek",
+    "usspeech": "cheek&type=2",
+    "tranCn": "脸颊"
+  },
+  {
+    "wordRank": 52,
+    "headWord": "interdependence",
+    "usspeech": "interdependence&type=2",
+    "tranCn": "相互依靠"
+  },
+  {
+    "wordRank": 53,
+    "headWord": "import",
+    "usspeech": "import&type=2",
+    "tranCn": "进口；进口"
+  },
+  {
+    "wordRank": 54,
+    "headWord": "fiction",
+    "usspeech": "fiction&type=2",
+    "tranCn": "小说，虚构的文学作品"
+  },
+  {
+    "wordRank": 55,
+    "headWord": "upbringing",
+    "usspeech": "upbringing&type=2",
+    "tranCn": "养育，培养，教养"
+  },
+  {
+    "wordRank": 56,
+    "headWord": "preserve",
+    "usspeech": "preserve&type=2",
+    "tranCn": "保护"
+  },
+  {
+    "wordRank": 57,
+    "headWord": "vitally",
+    "usspeech": "vitally&type=2",
+    "tranCn": "极其重要地"
+  },
+  {
+    "wordRank": 58,
+    "headWord": "masculine",
+    "usspeech": "masculine&type=2",
+    "tranCn": "男性的"
+  },
+  {
+    "wordRank": 59,
+    "headWord": "advocate",
+    "usspeech": "advocate&type=2",
+    "tranCn": "倡导；提倡者，拥护者，鼓吹者"
+  },
+  {
+    "wordRank": 60,
+    "headWord": "dust",
+    "usspeech": "dust&type=2",
+    "tranCn": "灰尘"
+  },
+  {
+    "wordRank": 61,
+    "headWord": "track",
+    "usspeech": "track&type=2",
+    "tranCn": "足迹；追踪，〔循着踪迹、气味等〕找寻"
+  },
+  {
+    "wordRank": 62,
+    "headWord": "confidence",
+    "usspeech": "confidence&type=2",
+    "tranCn": "信心"
+  },
+  {
+    "wordRank": 63,
+    "headWord": "riotous",
+    "usspeech": "riotous&type=2",
+    "tranCn": "狂暴的"
+  },
+  {
+    "wordRank": 64,
+    "headWord": "sophisticated",
+    "usspeech": "sophisticated&type=2",
+    "tranCn": "复杂的；世故的"
+  },
+  {
+    "wordRank": 65,
+    "headWord": "similar",
+    "usspeech": "similar&type=2",
+    "tranCn": "相似的"
+  },
+  {
+    "wordRank": 66,
+    "headWord": "transform",
+    "usspeech": "transform&type=2",
+    "tranCn": "改变"
+  },
+  {
+    "wordRank": 67,
+    "headWord": "approve",
+    "usspeech": "approve&type=2",
+    "tranCn": "赞成，同意"
+  },
+  {
+    "wordRank": 68,
+    "headWord": "session",
+    "usspeech": "session&type=2",
+    "tranCn": "开会，会议"
+  },
+  {
+    "wordRank": 69,
+    "headWord": "awareness",
+    "usspeech": "awareness&type=2",
+    "tranCn": "意识"
+  },
+  {
+    "wordRank": 70,
+    "headWord": "exhaust",
+    "usspeech": "exhaust&type=2",
+    "tranCn": "使筋疲力尽"
+  },
+  {
+    "wordRank": 71,
+    "headWord": "subsidize",
+    "usspeech": "subsidize&type=2",
+    "tranCn": "提供补贴"
+  },
+  {
+    "wordRank": 72,
+    "headWord": "grocery",
+    "usspeech": "grocery&type=2",
+    "tranCn": "杂货店"
+  },
+  {
+    "wordRank": 73,
+    "headWord": "ignorance",
+    "usspeech": "ignorance&type=2",
+    "tranCn": "无知，愚昧"
+  },
+  {
+    "wordRank": 74,
+    "headWord": "intelligence",
+    "usspeech": "intelligence&type=2",
+    "tranCn": "智力，智慧，理解力"
+  },
+  {
+    "wordRank": 75,
+    "headWord": "tiny",
+    "usspeech": "tiny&type=2",
+    "tranCn": "微小的"
+  },
+  {
+    "wordRank": 76,
+    "headWord": "praise",
+    "usspeech": "praise&type=2",
+    "tranCn": "赞扬，赞美"
+  },
+  {
+    "wordRank": 77,
+    "headWord": "memorize",
+    "usspeech": "memorize&type=2",
+    "tranCn": "熟记，牢记"
+  },
+  {
+    "wordRank": 78,
+    "headWord": "relative",
+    "usspeech": "relative&type=2",
+    "tranCn": "相对的；亲戚"
+  },
+  {
+    "wordRank": 79,
+    "headWord": "breakthrough",
+    "usspeech": "breakthrough&type=2",
+    "tranCn": "突破"
+  },
+  {
+    "wordRank": 80,
+    "headWord": "incidence",
+    "usspeech": "incidence&type=2",
+    "tranCn": "几率，发生率"
+  },
+  {
+    "wordRank": 81,
+    "headWord": "scratch",
+    "usspeech": "scratch&type=2",
+    "tranCn": "抓，划痕"
+  },
+  {
+    "wordRank": 82,
+    "headWord": "harmful",
+    "usspeech": "harmful&type=2",
+    "tranCn": "有害的"
+  },
+  {
+    "wordRank": 83,
+    "headWord": "undergo",
+    "usspeech": "undergo&type=2",
+    "tranCn": "承受"
+  },
+  {
+    "wordRank": 84,
+    "headWord": "recession",
+    "usspeech": "recession&type=2",
+    "tranCn": "衰退"
+  },
+  {
+    "wordRank": 85,
+    "headWord": "extraordinary",
+    "usspeech": "extraordinary&type=2",
+    "tranCn": "非凡的"
+  },
+  {
+    "wordRank": 86,
+    "headWord": "improper",
+    "usspeech": "improper&type=2",
+    "tranCn": "不合适的，不适当的"
+  },
+  {
+    "wordRank": 87,
+    "headWord": "marginalize",
+    "usspeech": "marginalize&type=2",
+    "tranCn": "边缘化，排斥"
+  },
+  {
+    "wordRank": 88,
+    "headWord": "vital",
+    "usspeech": "vital&type=2",
+    "tranCn": "重要的"
+  },
+  {
+    "wordRank": 89,
+    "headWord": "fortunately",
+    "usspeech": "fortunately&type=2",
+    "tranCn": "幸运地"
+  },
+  {
+    "wordRank": 90,
+    "headWord": "commencement",
+    "usspeech": "commencement&type=2",
+    "tranCn": "毕业典礼"
+  },
+  {
+    "wordRank": 91,
+    "headWord": "fetch",
+    "usspeech": "fetch&type=2",
+    "tranCn": "取回"
+  },
+  {
+    "wordRank": 92,
+    "headWord": "clumsy",
+    "usspeech": "clumsy&type=2",
+    "tranCn": "笨拙的，不圆滑的"
+  },
+  {
+    "wordRank": 93,
+    "headWord": "establishment",
+    "usspeech": "establishment&type=2",
+    "tranCn": "确立"
+  },
+  {
+    "wordRank": 94,
+    "headWord": "emit",
+    "usspeech": "emit&type=2",
+    "tranCn": "发出，排出"
+  },
+  {
+    "wordRank": 95,
+    "headWord": "entertaining",
+    "usspeech": "entertaining&type=2",
+    "tranCn": "有趣的，使人愉快的"
+  },
+  {
+    "wordRank": 96,
+    "headWord": "irregular",
+    "usspeech": "irregular&type=2",
+    "tranCn": "不规律的"
+  },
+  {
+    "wordRank": 97,
+    "headWord": "psychologist",
+    "usspeech": "psychologist&type=2",
+    "tranCn": "心理学家"
+  },
+  {
+    "wordRank": 98,
+    "headWord": "era",
+    "usspeech": "era&type=2",
+    "tranCn": "纪元，年代"
+  },
+  {
+    "wordRank": 99,
+    "headWord": "triumph",
+    "usspeech": "triumph&type=2",
+    "tranCn": "胜利"
+  },
+  {
+    "wordRank": 100,
+    "headWord": "detection",
+    "usspeech": "detection&type=2",
+    "tranCn": "侦查；察觉"
+  },
+  {
+    "wordRank": 101,
+    "headWord": "cozy",
+    "usspeech": "cozy&type=2",
+    "tranCn": "舒适的"
+  },
+  {
+    "wordRank": 102,
+    "headWord": "gallery",
+    "usspeech": "gallery&type=2",
+    "tranCn": "美术馆"
+  },
+  {
+    "wordRank": 103,
+    "headWord": "enormous",
+    "usspeech": "enormous&type=2",
+    "tranCn": "巨大的"
+  },
+  {
+    "wordRank": 104,
+    "headWord": "obtain",
+    "usspeech": "obtain&type=2",
+    "tranCn": "获得"
+  },
+  {
+    "wordRank": 105,
+    "headWord": "desert",
+    "usspeech": "desert&type=2",
+    "tranCn": "抛弃"
+  },
+  {
+    "wordRank": 106,
+    "headWord": "aviate",
+    "usspeech": "aviate&type=2",
+    "tranCn": "驾驶飞机"
+  },
+  {
+    "wordRank": 107,
+    "headWord": "determine",
+    "usspeech": "determine&type=2",
+    "tranCn": "决定；下决心"
+  },
+  {
+    "wordRank": 108,
+    "headWord": "disappear",
+    "usspeech": "disappear&type=2",
+    "tranCn": "不见，消失"
+  },
+  {
+    "wordRank": 109,
+    "headWord": "entitle",
+    "usspeech": "entitle&type=2",
+    "tranCn": "使具有权利，使具有资格"
+  },
+  {
+    "wordRank": 110,
+    "headWord": "relieve",
+    "usspeech": "relieve&type=2",
+    "tranCn": "解除，减轻，缓解"
+  },
+  {
+    "wordRank": 111,
+    "headWord": "generosity",
+    "usspeech": "generosity&type=2",
+    "tranCn": "慷慨，大方"
+  },
+  {
+    "wordRank": 112,
+    "headWord": "colleague",
+    "usspeech": "colleague&type=2",
+    "tranCn": "同事"
+  },
+  {
+    "wordRank": 113,
+    "headWord": "undertake",
+    "usspeech": "undertake&type=2",
+    "tranCn": "承担"
+  },
+  {
+    "wordRank": 114,
+    "headWord": "convenient",
+    "usspeech": "convenient&type=2",
+    "tranCn": "方便的"
+  },
+  {
+    "wordRank": 115,
+    "headWord": "preferentially",
+    "usspeech": "preferentially&type=2",
+    "tranCn": "优先地"
+  },
+  {
+    "wordRank": 116,
+    "headWord": "column",
+    "usspeech": "column&type=2",
+    "tranCn": "专栏"
+  },
+  {
+    "wordRank": 117,
+    "headWord": "affectionate",
+    "usspeech": "affectionate&type=2",
+    "tranCn": "深情的，柔情的"
+  },
+  {
+    "wordRank": 118,
+    "headWord": "issue",
+    "usspeech": "issue&type=2",
+    "tranCn": "发表〔声明〕；问题"
+  },
+  {
+    "wordRank": 119,
+    "headWord": "inquire",
+    "usspeech": "inquire&type=2",
+    "tranCn": "询问"
+  },
+  {
+    "wordRank": 120,
+    "headWord": "groundlessly",
+    "tranCn": "无缘无故地，无根据地"
+  },
+  {
+    "wordRank": 121,
+    "headWord": "independently",
+    "usspeech": "independently&type=2",
+    "tranCn": "独立地"
+  },
+  {
+    "wordRank": 122,
+    "headWord": "approach",
+    "usspeech": "approach&type=2",
+    "tranCn": "靠近；方法"
+  },
+  {
+    "wordRank": 123,
+    "headWord": "administration",
+    "usspeech": "administration&type=2",
+    "tranCn": "管理；〔某一时期的〕政府"
+  },
+  {
+    "wordRank": 124,
+    "headWord": "adversity",
+    "usspeech": "adversity&type=2",
+    "tranCn": "逆境，不幸"
+  },
+  {
+    "wordRank": 125,
+    "headWord": "technician",
+    "usspeech": "technician&type=2",
+    "tranCn": "技术员，技师"
+  },
+  {
+    "wordRank": 126,
+    "headWord": "regular",
+    "usspeech": "regular&type=2",
+    "tranCn": "有规律的，经常的"
+  },
+  {
+    "wordRank": 127,
+    "headWord": "miscalculation",
+    "tranCn": "算错，误算"
+  },
+  {
+    "wordRank": 128,
+    "headWord": "hinder",
+    "usspeech": "hinder&type=2",
+    "tranCn": "阻碍"
+  },
+  {
+    "wordRank": 129,
+    "headWord": "selection",
+    "usspeech": "selection&type=2",
+    "tranCn": "选择，挑选"
+  },
+  {
+    "wordRank": 130,
+    "headWord": "tide",
+    "usspeech": "tide&type=2",
+    "tranCn": "潮水"
+  },
+  {
+    "wordRank": 131,
+    "headWord": "superior",
+    "usspeech": "superior&type=2",
+    "tranCn": "上级的，较高的；上级，长官"
+  },
+  {
+    "wordRank": 132,
+    "headWord": "matter",
+    "usspeech": "matter&type=2",
+    "tranCn": "要紧，重要"
+  },
+  {
+    "wordRank": 133,
+    "headWord": "passively",
+    "usspeech": "passively&type=2",
+    "tranCn": "消极地"
+  },
+  {
+    "wordRank": 134,
+    "headWord": "grant",
+    "usspeech": "grant&type=2",
+    "tranCn": "授予；允许"
+  },
+  {
+    "wordRank": 135,
+    "headWord": "liberation",
+    "usspeech": "liberation&type=2",
+    "tranCn": "解放"
+  },
+  {
+    "wordRank": 136,
+    "headWord": "observe",
+    "usspeech": "observe&type=2",
+    "tranCn": "遵守"
+  },
+  {
+    "wordRank": 137,
+    "headWord": "institute",
+    "usspeech": "institute&type=2",
+    "tranCn": "建立；〔从事科研或教育等的〕机构；学院；研究院"
+  },
+  {
+    "wordRank": 138,
+    "headWord": "dormitory",
+    "usspeech": "dormitory&type=2",
+    "tranCn": "宿舍"
+  },
+  {
+    "wordRank": 139,
+    "headWord": "awful",
+    "usspeech": "awful&type=2",
+    "tranCn": "可怕的，骇人的"
+  },
+  {
+    "wordRank": 140,
+    "headWord": "emergency",
+    "usspeech": "emergency&type=2",
+    "tranCn": "紧急情况"
+  },
+  {
+    "wordRank": 141,
+    "headWord": "stress",
+    "usspeech": "stress&type=2",
+    "tranCn": "压力；重音"
+  },
+  {
+    "wordRank": 142,
+    "headWord": "launch",
+    "usspeech": "launch&type=2",
+    "tranCn": "发动"
+  },
+  {
+    "wordRank": 143,
+    "headWord": "suppose",
+    "usspeech": "suppose&type=2",
+    "tranCn": "料想，以为；假定；期望"
+  },
+  {
+    "wordRank": 144,
+    "headWord": "remove",
+    "usspeech": "remove&type=2",
+    "tranCn": "消除，移除"
+  },
+  {
+    "wordRank": 145,
+    "headWord": "exposure",
+    "usspeech": "exposure&type=2",
+    "tranCn": "暴露；揭露"
+  },
+  {
+    "wordRank": 146,
+    "headWord": "promote",
+    "usspeech": "promote&type=2",
+    "tranCn": "促进，提升；推销"
+  },
+  {
+    "wordRank": 147,
+    "headWord": "engage",
+    "usspeech": "engage&type=2",
+    "tranCn": "从事；吸引"
+  },
+  {
+    "wordRank": 148,
+    "headWord": "uncertain",
+    "usspeech": "uncertain&type=2",
+    "tranCn": "不确定的"
+  },
+  {
+    "wordRank": 149,
+    "headWord": "accommodate",
+    "usspeech": "accommodate&type=2",
+    "tranCn": "为…提供住宿"
+  },
+  {
+    "wordRank": 150,
+    "headWord": "slave",
+    "usspeech": "slave&type=2",
+    "tranCn": "奴隶"
+  },
+  {
+    "wordRank": 151,
+    "headWord": "mature",
+    "usspeech": "mature&type=2",
+    "tranCn": "成熟的"
+  },
+  {
+    "wordRank": 152,
+    "headWord": "contrast",
+    "usspeech": "contrast&type=2",
+    "tranCn": "对照物；对比"
+  },
+  {
+    "wordRank": 153,
+    "headWord": "clinic",
+    "usspeech": "clinic&type=2",
+    "tranCn": "诊所"
+  },
+  {
+    "wordRank": 154,
+    "headWord": "award",
+    "usspeech": "award&type=2",
+    "tranCn": "授予；判给；奖(金)"
+  },
+  {
+    "wordRank": 155,
+    "headWord": "worthwhile",
+    "usspeech": "worthwhile&type=2",
+    "tranCn": "有价值的"
+  },
+  {
+    "wordRank": 156,
+    "headWord": "cruelty",
+    "usspeech": "cruelty&type=2",
+    "tranCn": "残暴，残酷"
+  },
+  {
+    "wordRank": 157,
+    "headWord": "threaten",
+    "usspeech": "threaten&type=2",
+    "tranCn": "威胁"
+  },
+  {
+    "wordRank": 158,
+    "headWord": "chemical",
+    "usspeech": "chemical&type=2",
+    "tranCn": "化学的；化学制品"
+  },
+  {
+    "wordRank": 159,
+    "headWord": "consistent",
+    "usspeech": "consistent&type=2",
+    "tranCn": "一致的"
+  },
+  {
+    "wordRank": 160,
+    "headWord": "renew",
+    "usspeech": "renew&type=2",
+    "tranCn": "〔中止后〕重新开始，继续"
+  },
+  {
+    "wordRank": 161,
+    "headWord": "takeoff",
+    "usspeech": "takeoff&type=2",
+    "tranCn": "起飞"
+  },
+  {
+    "wordRank": 162,
+    "headWord": "innocent",
+    "usspeech": "innocent&type=2",
+    "tranCn": "无辜的；天真的"
+  },
+  {
+    "wordRank": 163,
+    "headWord": "currently",
+    "usspeech": "currently&type=2",
+    "tranCn": "当前；一般地"
+  },
+  {
+    "wordRank": 164,
+    "headWord": "dropout",
+    "usspeech": "dropout&type=2",
+    "tranCn": "辍学者"
+  },
+  {
+    "wordRank": 165,
+    "headWord": "replace",
+    "usspeech": "replace&type=2",
+    "tranCn": "代替"
+  },
+  {
+    "wordRank": 166,
+    "headWord": "sightseeing",
+    "usspeech": "sightseeing&type=2",
+    "tranCn": "观光"
+  },
+  {
+    "wordRank": 167,
+    "headWord": "honor",
+    "usspeech": "honor&type=2",
+    "tranCn": "荣誉；崇敬，敬重，敬意"
+  },
+  {
+    "wordRank": 168,
+    "headWord": "imitate",
+    "usspeech": "imitate&type=2",
+    "tranCn": "模仿"
+  },
+  {
+    "wordRank": 169,
+    "headWord": "installment",
+    "usspeech": "installment&type=2",
+    "tranCn": "分期付款"
+  },
+  {
+    "wordRank": 170,
+    "headWord": "personality",
+    "usspeech": "personality&type=2",
+    "tranCn": "个性，性格"
+  },
+  {
+    "wordRank": 171,
+    "headWord": "headquarter",
+    "usspeech": "headquarter&type=2",
+    "tranCn": "设立总部，在…设立总部"
+  },
+  {
+    "wordRank": 172,
+    "headWord": "ingredient",
+    "usspeech": "ingredient&type=2",
+    "tranCn": "成分，原料"
+  },
+  {
+    "wordRank": 173,
+    "headWord": "revenue",
+    "usspeech": "revenue&type=2",
+    "tranCn": "收入"
+  },
+  {
+    "wordRank": 174,
+    "headWord": "sensitive",
+    "usspeech": "sensitive&type=2",
+    "tranCn": "敏感的"
+  },
+  {
+    "wordRank": 175,
+    "headWord": "particular",
+    "usspeech": "particular&type=2",
+    "tranCn": "特别的，特指的；讲究的；挑剔的，吹毛求疵的"
+  },
+  {
+    "wordRank": 176,
+    "headWord": "tumor",
+    "usspeech": "tumor&type=2",
+    "tranCn": "瘤"
+  },
+  {
+    "wordRank": 177,
+    "headWord": "consequence",
+    "usspeech": "consequence&type=2",
+    "tranCn": "结果，成果"
+  },
+  {
+    "wordRank": 178,
+    "headWord": "explicitly",
+    "usspeech": "explicitly&type=2",
+    "tranCn": "直接地，明确地"
+  },
+  {
+    "wordRank": 179,
+    "headWord": "sway",
+    "usspeech": "sway&type=2",
+    "tranCn": "影响"
+  },
+  {
+    "wordRank": 180,
+    "headWord": "technical",
+    "usspeech": "technical&type=2",
+    "tranCn": "技术的"
+  },
+  {
+    "wordRank": 181,
+    "headWord": "expert",
+    "usspeech": "expert&type=2",
+    "tranCn": "熟练的，内行的"
+  },
+  {
+    "wordRank": 182,
+    "headWord": "harm",
+    "usspeech": "harm&type=2",
+    "tranCn": "损害；危害；伤害；伤害，损害〔某事物〕"
+  },
+  {
+    "wordRank": 183,
+    "headWord": "imaginary",
+    "usspeech": "imaginary&type=2",
+    "tranCn": "虚构的，想象的"
+  },
+  {
+    "wordRank": 184,
+    "headWord": "contaminate",
+    "usspeech": "contaminate&type=2",
+    "tranCn": "污染，弄脏"
+  },
+  {
+    "wordRank": 185,
+    "headWord": "soar",
+    "usspeech": "soar&type=2",
+    "tranCn": "猛增"
+  },
+  {
+    "wordRank": 186,
+    "headWord": "solely",
+    "usspeech": "solely&type=2",
+    "tranCn": "单独地，唯一地"
+  },
+  {
+    "wordRank": 187,
+    "headWord": "tremendous",
+    "usspeech": "tremendous&type=2",
+    "tranCn": "巨大的"
+  },
+  {
+    "wordRank": 188,
+    "headWord": "civilization",
+    "usspeech": "civilization&type=2",
+    "tranCn": "文明"
+  },
+  {
+    "wordRank": 189,
+    "headWord": "tough",
+    "usspeech": "tough&type=2",
+    "tranCn": "困难的"
+  },
+  {
+    "wordRank": 190,
+    "headWord": "gift",
+    "usspeech": "gift&type=2",
+    "tranCn": "礼物；天赋"
+  },
+  {
+    "wordRank": 191,
+    "headWord": "scale",
+    "usspeech": "scale&type=2",
+    "tranCn": "规模；比例"
+  },
+  {
+    "wordRank": 192,
+    "headWord": "injure",
+    "usspeech": "injure&type=2",
+    "tranCn": "使受伤"
+  },
+  {
+    "wordRank": 193,
+    "headWord": "embrace",
+    "usspeech": "embrace&type=2",
+    "tranCn": "拥抱；欣然接受，乐意采纳 (新思想、意见、宗教等)"
+  },
+  {
+    "wordRank": 194,
+    "headWord": "seldom",
+    "usspeech": "seldom&type=2",
+    "tranCn": "很少，罕见"
+  },
+  {
+    "wordRank": 195,
+    "headWord": "performance",
+    "usspeech": "performance&type=2",
+    "tranCn": "演出；履行；表现"
+  },
+  {
+    "wordRank": 196,
+    "headWord": "violate",
+    "usspeech": "violate&type=2",
+    "tranCn": "违反"
+  },
+  {
+    "wordRank": 197,
+    "headWord": "associate",
+    "usspeech": "associate&type=2",
+    "tranCn": "把……联系起来；交往；"
+  },
+  {
+    "wordRank": 198,
+    "headWord": "privacy",
+    "usspeech": "privacy&type=2",
+    "tranCn": "隐私"
+  },
+  {
+    "wordRank": 199,
+    "headWord": "choke",
+    "usspeech": "choke&type=2",
+    "tranCn": "使窒息"
+  },
+  {
+    "wordRank": 200,
+    "headWord": "capable",
+    "usspeech": "capable&type=2",
+    "tranCn": "能干的，有能力的"
+  },
+  {
+    "wordRank": 201,
+    "headWord": "appeal",
+    "usspeech": "appeal&type=2",
+    "tranCn": "呼吁；吸引；呼吁；恳请，恳求"
+  },
+  {
+    "wordRank": 202,
+    "headWord": "careless",
+    "usspeech": "careless&type=2",
+    "tranCn": "粗心的"
+  },
+  {
+    "wordRank": 203,
+    "headWord": "hit",
+    "usspeech": "hit&type=2",
+    "tranCn": "(唱片、电影或戏剧的) 成功；命中，击中"
+  },
+  {
+    "wordRank": 204,
+    "headWord": "swallow",
+    "usspeech": "swallow&type=2",
+    "tranCn": "咽下，吞下"
+  },
+  {
+    "wordRank": 205,
+    "headWord": "consult",
+    "usspeech": "consult&type=2",
+    "tranCn": "咨询"
+  },
+  {
+    "wordRank": 206,
+    "headWord": "preservation",
+    "usspeech": "preservation&type=2",
+    "tranCn": "保存，保留"
+  },
+  {
+    "wordRank": 207,
+    "headWord": "distance",
+    "usspeech": "distance&type=2",
+    "tranCn": "距离"
+  },
+  {
+    "wordRank": 208,
+    "headWord": "plastic",
+    "usspeech": "plastic&type=2",
+    "tranCn": "塑料的"
+  },
+  {
+    "wordRank": 209,
+    "headWord": "predict",
+    "usspeech": "predict&type=2",
+    "tranCn": "预言，预测，预告"
+  },
+  {
+    "wordRank": 210,
+    "headWord": "submit",
+    "usspeech": "submit&type=2",
+    "tranCn": "提交"
+  },
+  {
+    "wordRank": 211,
+    "headWord": "entertainment",
+    "usspeech": "entertainment&type=2",
+    "tranCn": "娱乐"
+  },
+  {
+    "wordRank": 212,
+    "headWord": "critical",
+    "usspeech": "critical&type=2",
+    "tranCn": "批评的，爱挑剔的"
+  },
+  {
+    "wordRank": 213,
+    "headWord": "transaction",
+    "usspeech": "transaction&type=2",
+    "tranCn": "交易，业务，事务"
+  },
+  {
+    "wordRank": 214,
+    "headWord": "via",
+    "usspeech": "via&type=2",
+    "tranCn": "通过"
+  },
+  {
+    "wordRank": 215,
+    "headWord": "insist",
+    "usspeech": "insist&type=2",
+    "tranCn": "主张，坚持"
+  },
+  {
+    "wordRank": 216,
+    "headWord": "distract",
+    "usspeech": "distract&type=2",
+    "tranCn": "分心"
+  },
+  {
+    "wordRank": 217,
+    "headWord": "subdivision",
+    "usspeech": "subdivision&type=2",
+    "tranCn": "分支; 分部"
+  },
+  {
+    "wordRank": 218,
+    "headWord": "yield",
+    "usspeech": "yield&type=2",
+    "tranCn": "产生，得出〔结果、答案或资料；产量"
+  },
+  {
+    "wordRank": 219,
+    "headWord": "misunderstand",
+    "usspeech": "misunderstand&type=2",
+    "tranCn": "误解"
+  },
+  {
+    "wordRank": 220,
+    "headWord": "detail",
+    "usspeech": "detail&type=2",
+    "tranCn": "细节"
+  },
+  {
+    "wordRank": 221,
+    "headWord": "immeasurable",
+    "usspeech": "immeasurable&type=2",
+    "tranCn": "无法估量的"
+  },
+  {
+    "wordRank": 222,
+    "headWord": "convincing",
+    "usspeech": "convincing&type=2",
+    "tranCn": "令人信服的"
+  },
+  {
+    "wordRank": 223,
+    "headWord": "donate",
+    "usspeech": "donate&type=2",
+    "tranCn": "捐赠"
+  },
+  {
+    "wordRank": 224,
+    "headWord": "compare",
+    "usspeech": "compare&type=2",
+    "tranCn": "比较，对照"
+  },
+  {
+    "wordRank": 225,
+    "headWord": "item",
+    "usspeech": "item&type=2",
+    "tranCn": "〔尤指清单上、一群或一组事物中的〕一项，一件，一条"
+  },
+  {
+    "wordRank": 226,
+    "headWord": "concrete",
+    "usspeech": "concrete&type=2",
+    "tranCn": "具体的"
+  },
+  {
+    "wordRank": 227,
+    "headWord": "govern",
+    "usspeech": "govern&type=2",
+    "tranCn": "管理，支配"
+  },
+  {
+    "wordRank": 228,
+    "headWord": "classify",
+    "usspeech": "classify&type=2",
+    "tranCn": "把…分类，把…分级"
+  },
+  {
+    "wordRank": 229,
+    "headWord": "restrict",
+    "usspeech": "restrict&type=2",
+    "tranCn": "限制，限定"
+  },
+  {
+    "wordRank": 230,
+    "headWord": "establish",
+    "usspeech": "establish&type=2",
+    "tranCn": "建立，创办，设立"
+  },
+  {
+    "wordRank": 231,
+    "headWord": "counseling",
+    "usspeech": "counseling&type=2",
+    "tranCn": "咨询服务"
+  },
+  {
+    "wordRank": 232,
+    "headWord": "majority",
+    "usspeech": "majority&type=2",
+    "tranCn": "多数"
+  },
+  {
+    "wordRank": 233,
+    "headWord": "contact",
+    "usspeech": "contact&type=2",
+    "tranCn": "联系，接触；〔写信、打电话〕联系〔某人〕"
+  },
+  {
+    "wordRank": 234,
+    "headWord": "virtual",
+    "usspeech": "virtual&type=2",
+    "tranCn": "虚拟的"
+  },
+  {
+    "wordRank": 235,
+    "headWord": "simplicity",
+    "usspeech": "simplicity&type=2",
+    "tranCn": "简单"
+  },
+  {
+    "wordRank": 236,
+    "headWord": "enrollment",
+    "usspeech": "enrollment&type=3",
+    "tranCn": "入学人数"
+  },
+  {
+    "wordRank": 237,
+    "headWord": "programming",
+    "usspeech": "programming&type=2",
+    "tranCn": "〔计算机的〕程序编写，程序设计；程序；；〔电视或广播〕节目；电视[广播]节目策划，编排"
+  },
+  {
+    "wordRank": 238,
+    "headWord": "device",
+    "usspeech": "device&type=2",
+    "tranCn": "装置，设备"
+  },
+  {
+    "wordRank": 239,
+    "headWord": "previous",
+    "usspeech": "previous&type=2",
+    "tranCn": "之前的"
+  },
+  {
+    "wordRank": 240,
+    "headWord": "alter",
+    "usspeech": "alter&type=2",
+    "tranCn": "改变"
+  },
+  {
+    "wordRank": 241,
+    "headWord": "coach",
+    "usspeech": "coach&type=2",
+    "tranCn": "教练；当…的教练，训练，培训"
+  },
+  {
+    "wordRank": 242,
+    "headWord": "crisis",
+    "usspeech": "crisis&type=2",
+    "tranCn": "危机"
+  },
+  {
+    "wordRank": 243,
+    "headWord": "interconnect",
+    "usspeech": "interconnect&type=2",
+    "tranCn": "相互联系"
+  },
+  {
+    "wordRank": 244,
+    "headWord": "enrich",
+    "usspeech": "enrich&type=2",
+    "tranCn": "丰富；使富有"
+  },
+  {
+    "wordRank": 245,
+    "headWord": "poll",
+    "usspeech": "poll&type=2",
+    "tranCn": "民意调查"
+  },
+  {
+    "wordRank": 246,
+    "headWord": "consent",
+    "usspeech": "consent&type=2",
+    "tranCn": "允许，同意；同意，赞同"
+  },
+  {
+    "wordRank": 247,
+    "headWord": "utility",
+    "usspeech": "utility&type=2",
+    "tranCn": "公用事业〔如煤气、电力等〕"
+  },
+  {
+    "wordRank": 248,
+    "headWord": "poisonous",
+    "usspeech": "poisonous&type=2",
+    "tranCn": "有毒的，有害的"
+  },
+  {
+    "wordRank": 249,
+    "headWord": "collision",
+    "usspeech": "collision&type=2",
+    "tranCn": "冲突，抵触"
+  },
+  {
+    "wordRank": 250,
+    "headWord": "rank",
+    "usspeech": "rank&type=2",
+    "tranCn": "具有…等级[地位]；衔，阶层"
+  },
+  {
+    "wordRank": 251,
+    "headWord": "fundamentally",
+    "usspeech": "fundamentally&type=2",
+    "tranCn": "根本上"
+  },
+  {
+    "wordRank": 252,
+    "headWord": "inflation",
+    "usspeech": "inflation&type=2",
+    "tranCn": "通货膨胀"
+  },
+  {
+    "wordRank": 253,
+    "headWord": "secure",
+    "usspeech": "secure&type=2",
+    "tranCn": "确保……安全"
+  },
+  {
+    "wordRank": 254,
+    "headWord": "interpret",
+    "usspeech": "interpret&type=2",
+    "tranCn": "解释"
+  },
+  {
+    "wordRank": 255,
+    "headWord": "criticize",
+    "usspeech": "criticize&type=2",
+    "tranCn": "批评；评论"
+  },
+  {
+    "wordRank": 256,
+    "headWord": "arrest",
+    "usspeech": "arrest&type=2",
+    "tranCn": "逮捕"
+  },
+  {
+    "wordRank": 257,
+    "headWord": "afford",
+    "usspeech": "afford&type=2",
+    "tranCn": "负担得起"
+  },
+  {
+    "wordRank": 258,
+    "headWord": "implementation",
+    "tranCn": "实现，履行"
+  },
+  {
+    "wordRank": 259,
+    "headWord": "initiate",
+    "usspeech": "initiate&type=2",
+    "tranCn": "开始，发起"
+  },
+  {
+    "wordRank": 260,
+    "headWord": "enable",
+    "usspeech": "enable&type=2",
+    "tranCn": "使能够……"
+  },
+  {
+    "wordRank": 261,
+    "headWord": "narrow",
+    "usspeech": "narrow&type=2",
+    "tranCn": "狭窄的"
+  },
+  {
+    "wordRank": 262,
+    "headWord": "overcharge",
+    "usspeech": "overcharge&type=2",
+    "tranCn": "向……多收费"
+  },
+  {
+    "wordRank": 263,
+    "headWord": "shortcut",
+    "usspeech": "shortcut&type=2",
+    "tranCn": "捷径，近路"
+  },
+  {
+    "wordRank": 264,
+    "headWord": "leisure",
+    "usspeech": "leisure&type=2",
+    "tranCn": "悠闲，空闲"
+  },
+  {
+    "wordRank": 265,
+    "headWord": "original",
+    "usspeech": "original&type=2",
+    "tranCn": "原始的，最初的"
+  },
+  {
+    "wordRank": 266,
+    "headWord": "density",
+    "usspeech": "density&type=2",
+    "tranCn": "密度"
+  },
+  {
+    "wordRank": 267,
+    "headWord": "sphere",
+    "usspeech": "sphere&type=2",
+    "tranCn": "球体；范围"
+  },
+  {
+    "wordRank": 268,
+    "headWord": "margin",
+    "usspeech": "margin&type=2",
+    "tranCn": "页边的空白，页边，白边"
+  },
+  {
+    "wordRank": 269,
+    "headWord": "department",
+    "usspeech": "department&type=2",
+    "tranCn": "部门"
+  },
+  {
+    "wordRank": 270,
+    "headWord": "desire",
+    "usspeech": "desire&type=2",
+    "tranCn": "渴望，欲望"
+  },
+  {
+    "wordRank": 271,
+    "headWord": "legend",
+    "usspeech": "legend&type=2",
+    "tranCn": "传奇"
+  },
+  {
+    "wordRank": 272,
+    "headWord": "dictator",
+    "usspeech": "dictator&type=2",
+    "tranCn": "独裁者；专制者"
+  },
+  {
+    "wordRank": 273,
+    "headWord": "diversity",
+    "usspeech": "diversity&type=2",
+    "tranCn": "多样性；差异"
+  },
+  {
+    "wordRank": 274,
+    "headWord": "quit",
+    "usspeech": "quit&type=2",
+    "tranCn": "放弃"
+  },
+  {
+    "wordRank": 275,
+    "headWord": "outgoing",
+    "usspeech": "outgoing&type=2",
+    "tranCn": "开朗的；外向的；外出的"
+  },
+  {
+    "wordRank": 276,
+    "headWord": "solution",
+    "usspeech": "solution&type=2",
+    "tranCn": "解决，解答，解决办法"
+  },
+  {
+    "wordRank": 277,
+    "headWord": "revenge",
+    "usspeech": "revenge&type=2",
+    "tranCn": "报仇"
+  },
+  {
+    "wordRank": 278,
+    "headWord": "reverse",
+    "usspeech": "reverse&type=2",
+    "tranCn": "相反情况；正相反；相反的"
+  },
+  {
+    "wordRank": 279,
+    "headWord": "enroll",
+    "usspeech": "enroll&type=2",
+    "tranCn": "注册"
+  },
+  {
+    "wordRank": 280,
+    "headWord": "logically",
+    "usspeech": "logically&type=2",
+    "tranCn": "合乎情理地，符合逻辑地"
+  },
+  {
+    "wordRank": 281,
+    "headWord": "rental",
+    "usspeech": "rental&type=2",
+    "tranCn": "租金"
+  },
+  {
+    "wordRank": 282,
+    "headWord": "component",
+    "usspeech": "component&type=2",
+    "tranCn": "成分"
+  },
+  {
+    "wordRank": 283,
+    "headWord": "quotation",
+    "usspeech": "quotation&type=2",
+    "tranCn": "引文"
+  },
+  {
+    "wordRank": 284,
+    "headWord": "faith",
+    "usspeech": "faith&type=2",
+    "tranCn": "信任"
+  },
+  {
+    "wordRank": 285,
+    "headWord": "invalid",
+    "usspeech": "invalid&type=2",
+    "tranCn": "无效的"
+  },
+  {
+    "wordRank": 286,
+    "headWord": "invade",
+    "usspeech": "invade&type=2",
+    "tranCn": "侵入，侵略"
+  },
+  {
+    "wordRank": 287,
+    "headWord": "separately",
+    "usspeech": "separately&type=2",
+    "tranCn": "分别地，另行"
+  },
+  {
+    "wordRank": 288,
+    "headWord": "strain",
+    "usspeech": "strain&type=2",
+    "tranCn": "扭伤，拉伤"
+  },
+  {
+    "wordRank": 289,
+    "headWord": "accessible",
+    "usspeech": "accessible&type=2",
+    "tranCn": "易接近的"
+  },
+  {
+    "wordRank": 290,
+    "headWord": "lap",
+    "usspeech": "lap&type=2",
+    "tranCn": "〔坐着时的〕大腿部"
+  },
+  {
+    "wordRank": 291,
+    "headWord": "character",
+    "usspeech": "character&type=2",
+    "tranCn": "角色"
+  },
+  {
+    "wordRank": 292,
+    "headWord": "widespread",
+    "usspeech": "widespread&type=2",
+    "tranCn": "普遍的，广泛的"
+  },
+  {
+    "wordRank": 293,
+    "headWord": "rearrange",
+    "usspeech": "rearrange&type=2",
+    "tranCn": "重新安排"
+  },
+  {
+    "wordRank": 294,
+    "headWord": "hospitalize",
+    "usspeech": "hospitalize&type=2",
+    "tranCn": "就医"
+  },
+  {
+    "wordRank": 295,
+    "headWord": "avail",
+    "usspeech": "avail&type=2",
+    "tranCn": "有益, 有帮助"
+  },
+  {
+    "wordRank": 296,
+    "headWord": "instant",
+    "usspeech": "instant&type=2",
+    "tranCn": "立即的；紧急的；速溶的，方便的"
+  },
+  {
+    "wordRank": 297,
+    "headWord": "democratic",
+    "usspeech": "democratic&type=2",
+    "tranCn": "民主的"
+  },
+  {
+    "wordRank": 298,
+    "headWord": "barely",
+    "usspeech": "barely&type=2",
+    "tranCn": "仅仅，几乎不"
+  },
+  {
+    "wordRank": 299,
+    "headWord": "vanish",
+    "usspeech": "vanish&type=2",
+    "tranCn": "消失"
+  },
+  {
+    "wordRank": 300,
+    "headWord": "caregiver",
+    "usspeech": "caregiver&type=2",
+    "tranCn": "照料者"
+  },
+  {
+    "wordRank": 301,
+    "headWord": "harsh",
+    "usspeech": "harsh&type=2",
+    "tranCn": "严酷的"
+  },
+  {
+    "wordRank": 302,
+    "headWord": "reliable",
+    "usspeech": "reliable&type=2",
+    "tranCn": "可靠的，可信赖的"
+  },
+  {
+    "wordRank": 303,
+    "headWord": "massive",
+    "usspeech": "massive&type=2",
+    "tranCn": "(尺寸、数量、规模) 非常大的"
+  },
+  {
+    "wordRank": 304,
+    "headWord": "alcohol",
+    "usspeech": "alcohol&type=2",
+    "tranCn": "酒精"
+  },
+  {
+    "wordRank": 305,
+    "headWord": "pregnant",
+    "usspeech": "pregnant&type=2",
+    "tranCn": "怀孕的"
+  },
+  {
+    "wordRank": 306,
+    "headWord": "adapt",
+    "usspeech": "adapt&type=2",
+    "tranCn": "适应于"
+  },
+  {
+    "wordRank": 307,
+    "headWord": "bogus",
+    "usspeech": "bogus&type=2",
+    "tranCn": "假冒的"
+  },
+  {
+    "wordRank": 308,
+    "headWord": "slippery",
+    "usspeech": "slippery&type=2",
+    "tranCn": "滑的；模糊的，不明确的，"
+  },
+  {
+    "wordRank": 309,
+    "headWord": "current",
+    "usspeech": "current&type=2",
+    "tranCn": "当前的"
+  },
+  {
+    "wordRank": 310,
+    "headWord": "overwhelm",
+    "usspeech": "overwhelm&type=2",
+    "tranCn": "压倒，战胜"
+  },
+  {
+    "wordRank": 311,
+    "headWord": "stressful",
+    "usspeech": "stressful&type=2",
+    "tranCn": "充满著压力的，充满著紧张的"
+  },
+  {
+    "wordRank": 312,
+    "headWord": "toothache",
+    "usspeech": "toothache&type=2",
+    "tranCn": "牙痛，牙疼"
+  },
+  {
+    "wordRank": 313,
+    "headWord": "eliminate",
+    "usspeech": "eliminate&type=2",
+    "tranCn": "消除"
+  },
+  {
+    "wordRank": 314,
+    "headWord": "terminal",
+    "usspeech": "terminal&type=2",
+    "tranCn": "终点站，航空站"
+  },
+  {
+    "wordRank": 315,
+    "headWord": "severe",
+    "usspeech": "severe&type=2",
+    "tranCn": "严重的"
+  },
+  {
+    "wordRank": 316,
+    "headWord": "immobile",
+    "usspeech": "immobile&type=2",
+    "tranCn": "稳定的，不变的"
+  },
+  {
+    "wordRank": 317,
+    "headWord": "diplomatic",
+    "usspeech": "diplomatic&type=2",
+    "tranCn": "外交的"
+  },
+  {
+    "wordRank": 318,
+    "headWord": "candidate",
+    "usspeech": "candidate&type=2",
+    "tranCn": "申请求职者；投考者；候选人"
+  },
+  {
+    "wordRank": 319,
+    "headWord": "fund",
+    "usspeech": "fund&type=2",
+    "tranCn": "基金，储备；；提供资金"
+  },
+  {
+    "wordRank": 320,
+    "headWord": "complacency",
+    "usspeech": "complacency&type=2",
+    "tranCn": "自满，满足"
+  },
+  {
+    "wordRank": 321,
+    "headWord": "delight",
+    "usspeech": "delight&type=2",
+    "tranCn": "高兴"
+  },
+  {
+    "wordRank": 322,
+    "headWord": "inadequate",
+    "usspeech": "inadequate&type=2",
+    "tranCn": "不足的，不够的"
+  },
+  {
+    "wordRank": 323,
+    "headWord": "steady",
+    "usspeech": "steady&type=2",
+    "tranCn": "稳定的，逐步的"
+  },
+  {
+    "wordRank": 324,
+    "headWord": "accurate",
+    "usspeech": "accurate&type=2",
+    "tranCn": "精确的，准确的"
+  },
+  {
+    "wordRank": 325,
+    "headWord": "identification",
+    "usspeech": "identification&type=2",
+    "tranCn": "身份证明；鉴定，识别；认同；"
+  },
+  {
+    "wordRank": 326,
+    "headWord": "previously",
+    "usspeech": "previously&type=2",
+    "tranCn": "事先"
+  },
+  {
+    "wordRank": 327,
+    "headWord": "identical",
+    "usspeech": "identical&type=2",
+    "tranCn": "相同的"
+  },
+  {
+    "wordRank": 328,
+    "headWord": "retirement",
+    "usspeech": "retirement&type=2",
+    "tranCn": "退休"
+  },
+  {
+    "wordRank": 329,
+    "headWord": "commit",
+    "usspeech": "commit&type=2",
+    "tranCn": "犯罪；承担义务"
+  },
+  {
+    "wordRank": 330,
+    "headWord": "element",
+    "usspeech": "element&type=2",
+    "tranCn": "要素；元素"
+  },
+  {
+    "wordRank": 331,
+    "headWord": "assess",
+    "usspeech": "assess&type=2",
+    "tranCn": "评价"
+  },
+  {
+    "wordRank": 332,
+    "headWord": "hire",
+    "usspeech": "hire&type=2",
+    "tranCn": "雇佣"
+  },
+  {
+    "wordRank": 333,
+    "headWord": "represent",
+    "usspeech": "represent&type=2",
+    "tranCn": "代表"
+  },
+  {
+    "wordRank": 334,
+    "headWord": "overestimate",
+    "usspeech": "overestimate&type=2",
+    "tranCn": "对（数量）估计过高"
+  },
+  {
+    "wordRank": 335,
+    "headWord": "supervision",
+    "usspeech": "supervision&type=2",
+    "tranCn": "监督"
+  },
+  {
+    "wordRank": 336,
+    "headWord": "expose",
+    "usspeech": "expose&type=2",
+    "tranCn": "暴露"
+  },
+  {
+    "wordRank": 337,
+    "headWord": "seemingly",
+    "usspeech": "seemingly&type=2",
+    "tranCn": "表面上看"
+  },
+  {
+    "wordRank": 338,
+    "headWord": "assignment",
+    "usspeech": "assignment&type=2",
+    "tranCn": "作业"
+  },
+  {
+    "wordRank": 339,
+    "headWord": "preference",
+    "usspeech": "preference&type=2",
+    "tranCn": "偏爱"
+  },
+  {
+    "wordRank": 340,
+    "headWord": "energetic",
+    "usspeech": "energetic&type=2",
+    "tranCn": "精力充沛的"
+  },
+  {
+    "wordRank": 341,
+    "headWord": "application",
+    "usspeech": "application&type=2",
+    "tranCn": "申请；应用"
+  },
+  {
+    "wordRank": 342,
+    "headWord": "moral",
+    "usspeech": "moral&type=2",
+    "tranCn": "精神上的, 道德的"
+  },
+  {
+    "wordRank": 343,
+    "headWord": "dispute",
+    "usspeech": "dispute&type=2",
+    "tranCn": "辩论，争论；辩论，争论"
+  },
+  {
+    "wordRank": 344,
+    "headWord": "influence",
+    "usspeech": "influence&type=2",
+    "tranCn": "影响；影响"
+  },
+  {
+    "wordRank": 345,
+    "headWord": "illegal",
+    "usspeech": "illegal&type=2",
+    "tranCn": "非法的"
+  },
+  {
+    "wordRank": 346,
+    "headWord": "esteem",
+    "usspeech": "esteem&type=2",
+    "tranCn": "自尊"
+  },
+  {
+    "wordRank": 347,
+    "headWord": "abundant",
+    "usspeech": "abundant&type=2",
+    "tranCn": "大量的，丰富的"
+  },
+  {
+    "wordRank": 348,
+    "headWord": "survey",
+    "usspeech": "survey&type=2",
+    "tranCn": "调查；审视，仔细考虑；调查；勘测，测量，测绘"
+  },
+  {
+    "wordRank": 349,
+    "headWord": "extensively",
+    "usspeech": "extensively&type=2",
+    "tranCn": "广泛地"
+  },
+  {
+    "wordRank": 350,
+    "headWord": "deserve",
+    "usspeech": "deserve&type=2",
+    "tranCn": "值得"
+  },
+  {
+    "wordRank": 351,
+    "headWord": "crash",
+    "usspeech": "crash&type=2",
+    "tranCn": "坠落;坠毁;撞击；〔汽车的〕撞车事故；〔飞机的〕坠毁，失事"
+  },
+  {
+    "wordRank": 352,
+    "headWord": "affirm",
+    "usspeech": "affirm&type=2",
+    "tranCn": "断言，声明"
+  },
+  {
+    "wordRank": 353,
+    "headWord": "reputation",
+    "usspeech": "reputation&type=2",
+    "tranCn": "名气，名声，名誉"
+  },
+  {
+    "wordRank": 354,
+    "headWord": "degree",
+    "usspeech": "degree&type=2",
+    "tranCn": "程度"
+  },
+  {
+    "wordRank": 355,
+    "headWord": "fade",
+    "usspeech": "fade&type=2",
+    "tranCn": "逐渐消失"
+  },
+  {
+    "wordRank": 356,
+    "headWord": "competitor",
+    "usspeech": "competitor&type=2",
+    "tranCn": "竞争者，对手"
+  },
+  {
+    "wordRank": 357,
+    "headWord": "confuse",
+    "usspeech": "confuse&type=2",
+    "tranCn": "使混淆，迷惑"
+  },
+  {
+    "wordRank": 358,
+    "headWord": "task",
+    "usspeech": "task&type=2",
+    "tranCn": "任务，工作"
+  },
+  {
+    "wordRank": 359,
+    "headWord": "lessen",
+    "usspeech": "lessen&type=2",
+    "tranCn": "减少"
+  },
+  {
+    "wordRank": 360,
+    "headWord": "admit",
+    "usspeech": "admit&type=2",
+    "tranCn": "承认；容许"
+  },
+  {
+    "wordRank": 361,
+    "headWord": "bow",
+    "usspeech": "bow&type=2",
+    "tranCn": "鞠躬"
+  },
+  {
+    "wordRank": 362,
+    "headWord": "division",
+    "usspeech": "division&type=2",
+    "tranCn": "除法；部门"
+  },
+  {
+    "wordRank": 363,
+    "headWord": "literature",
+    "usspeech": "literature&type=2",
+    "tranCn": "文学，文学作品；文献；文献"
+  },
+  {
+    "wordRank": 364,
+    "headWord": "consultant",
+    "usspeech": "consultant&type=2",
+    "tranCn": "顾问"
+  },
+  {
+    "wordRank": 365,
+    "headWord": "penalty",
+    "usspeech": "penalty&type=2",
+    "tranCn": "惩罚"
+  },
+  {
+    "wordRank": 366,
+    "headWord": "comment",
+    "usspeech": "comment&type=2",
+    "tranCn": "评论"
+  },
+  {
+    "wordRank": 367,
+    "headWord": "major",
+    "usspeech": "major&type=2",
+    "tranCn": "主要的；主修"
+  },
+  {
+    "wordRank": 368,
+    "headWord": "option",
+    "usspeech": "option&type=2",
+    "tranCn": "选择"
+  },
+  {
+    "wordRank": 369,
+    "headWord": "socialize",
+    "usspeech": "socialize&type=2",
+    "tranCn": "交往，联谊"
+  },
+  {
+    "wordRank": 370,
+    "headWord": "bureau",
+    "usspeech": "bureau&type=2",
+    "tranCn": "局"
+  },
+  {
+    "wordRank": 371,
+    "headWord": "budget",
+    "usspeech": "budget&type=2",
+    "tranCn": "预算；编预算"
+  },
+  {
+    "wordRank": 372,
+    "headWord": "pop",
+    "usspeech": "pop&type=2",
+    "tranCn": "突然出现，跳出"
+  },
+  {
+    "wordRank": 373,
+    "headWord": "position",
+    "usspeech": "position&type=2",
+    "tranCn": "职位"
+  },
+  {
+    "wordRank": 374,
+    "headWord": "unaffordable",
+    "tranCn": "买不起的，负担不起的"
+  },
+  {
+    "wordRank": 375,
+    "headWord": "function",
+    "usspeech": "function&type=2",
+    "tranCn": "功能；运行"
+  },
+  {
+    "wordRank": 376,
+    "headWord": "perceive",
+    "usspeech": "perceive&type=2",
+    "tranCn": "察觉"
+  },
+  {
+    "wordRank": 377,
+    "headWord": "reserve",
+    "usspeech": "reserve&type=2",
+    "tranCn": "留出，预定"
+  },
+  {
+    "wordRank": 378,
+    "headWord": "innovation",
+    "usspeech": "innovation&type=2",
+    "tranCn": "改革，创新"
+  },
+  {
+    "wordRank": 379,
+    "headWord": "alert",
+    "usspeech": "alert&type=2",
+    "tranCn": "提醒；使〔某人〕意识到；机警的"
+  },
+  {
+    "wordRank": 380,
+    "headWord": "cautious",
+    "usspeech": "cautious&type=2",
+    "tranCn": "谨慎的"
+  },
+  {
+    "wordRank": 381,
+    "headWord": "document",
+    "usspeech": "document&type=2",
+    "tranCn": "文件"
+  },
+  {
+    "wordRank": 382,
+    "headWord": "characterize",
+    "usspeech": "characterize&type=2",
+    "tranCn": "以……特点"
+  },
+  {
+    "wordRank": 383,
+    "headWord": "achieve",
+    "usspeech": "achieve&type=2",
+    "tranCn": "完成，实现"
+  },
+  {
+    "wordRank": 384,
+    "headWord": "address",
+    "usspeech": "address&type=2",
+    "tranCn": "解决"
+  },
+  {
+    "wordRank": 385,
+    "headWord": "inspiration",
+    "usspeech": "inspiration&type=2",
+    "tranCn": "灵感"
+  },
+  {
+    "wordRank": 386,
+    "headWord": "agency",
+    "usspeech": "agency&type=2",
+    "tranCn": "机构"
+  },
+  {
+    "wordRank": 387,
+    "headWord": "formulate",
+    "usspeech": "formulate&type=2",
+    "tranCn": "规定，制定"
+  },
+  {
+    "wordRank": 388,
+    "headWord": "fate",
+    "usspeech": "fate&type=2",
+    "tranCn": "命运"
+  },
+  {
+    "wordRank": 389,
+    "headWord": "surf",
+    "usspeech": "surf&type=2",
+    "tranCn": "冲浪"
+  },
+  {
+    "wordRank": 390,
+    "headWord": "steer",
+    "usspeech": "steer&type=2",
+    "tranCn": "驾驶"
+  },
+  {
+    "wordRank": 391,
+    "headWord": "structure",
+    "usspeech": "structure&type=2",
+    "tranCn": "结构"
+  },
+  {
+    "wordRank": 392,
+    "headWord": "architect",
+    "usspeech": "architect&type=2",
+    "tranCn": "建筑师"
+  },
+  {
+    "wordRank": 393,
+    "headWord": "frame",
+    "usspeech": "frame&type=2",
+    "tranCn": "框架"
+  },
+  {
+    "wordRank": 394,
+    "headWord": "amaze",
+    "usspeech": "amaze&type=2",
+    "tranCn": "使吃惊"
+  },
+  {
+    "wordRank": 395,
+    "headWord": "affirmation",
+    "usspeech": "affirmation&type=2",
+    "tranCn": "断言，肯定"
+  },
+  {
+    "wordRank": 396,
+    "headWord": "intelligent",
+    "usspeech": "intelligent&type=2",
+    "tranCn": "有智慧的，聪明的，悟性强的"
+  },
+  {
+    "wordRank": 397,
+    "headWord": "code",
+    "usspeech": "code&type=2",
+    "tranCn": "代码，密码"
+  },
+  {
+    "wordRank": 398,
+    "headWord": "burden",
+    "usspeech": "burden&type=2",
+    "tranCn": "重担，负担"
+  },
+  {
+    "wordRank": 399,
+    "headWord": "absorb",
+    "usspeech": "absorb&type=2",
+    "tranCn": "吸收（液体、气体等）"
+  },
+  {
+    "wordRank": 400,
+    "headWord": "instruction",
+    "usspeech": "instruction&type=2",
+    "tranCn": "用法说明；操作指南；命令，指示"
+  },
+  {
+    "wordRank": 401,
+    "headWord": "admission",
+    "usspeech": "admission&type=2",
+    "tranCn": "承认；准许进(加)入；入场费"
+  },
+  {
+    "wordRank": 402,
+    "headWord": "additional",
+    "usspeech": "additional&type=2",
+    "tranCn": "额外的"
+  },
+  {
+    "wordRank": 403,
+    "headWord": "prejudice",
+    "usspeech": "prejudice&type=2",
+    "tranCn": "偏见；使有偏见，使有成见"
+  },
+  {
+    "wordRank": 404,
+    "headWord": "process",
+    "usspeech": "process&type=2",
+    "tranCn": "过程，进程；；工序；工艺流程；处理"
+  },
+  {
+    "wordRank": 405,
+    "headWord": "elegant",
+    "usspeech": "elegant&type=2",
+    "tranCn": "优雅的"
+  },
+  {
+    "wordRank": 406,
+    "headWord": "hospitable",
+    "usspeech": "hospitable&type=2",
+    "tranCn": "热情友好的"
+  },
+  {
+    "wordRank": 407,
+    "headWord": "refreshing",
+    "usspeech": "refreshing&type=2",
+    "tranCn": "恢复活力的"
+  },
+  {
+    "wordRank": 408,
+    "headWord": "ensure",
+    "usspeech": "ensure&type=2",
+    "tranCn": "确保"
+  },
+  {
+    "wordRank": 409,
+    "headWord": "frighten",
+    "usspeech": "frighten&type=2",
+    "tranCn": "使惊恐，使恐慌"
+  },
+  {
+    "wordRank": 410,
+    "headWord": "civilized",
+    "usspeech": "civilized&type=2",
+    "tranCn": "文明的"
+  },
+  {
+    "wordRank": 411,
+    "headWord": "approval",
+    "usspeech": "approval&type=2",
+    "tranCn": "批准，认可；赞成，同意"
+  },
+  {
+    "wordRank": 412,
+    "headWord": "publicize",
+    "usspeech": "publicize&type=2",
+    "tranCn": "宣布"
+  },
+  {
+    "wordRank": 413,
+    "headWord": "resident",
+    "usspeech": "resident&type=2",
+    "tranCn": "居民"
+  },
+  {
+    "wordRank": 414,
+    "headWord": "considerate",
+    "usspeech": "considerate&type=2",
+    "tranCn": "体贴的；考虑周到的"
+  },
+  {
+    "wordRank": 415,
+    "headWord": "twist",
+    "usspeech": "twist&type=2",
+    "tranCn": "扭曲，使弯曲"
+  },
+  {
+    "wordRank": 416,
+    "headWord": "citizen",
+    "usspeech": "citizen&type=2",
+    "tranCn": "市民，城镇居民；公民"
+  },
+  {
+    "wordRank": 417,
+    "headWord": "stake",
+    "usspeech": "stake&type=2",
+    "tranCn": "风险"
+  },
+  {
+    "wordRank": 418,
+    "headWord": "keenly",
+    "usspeech": "keenly&type=2",
+    "tranCn": "敏锐地"
+  },
+  {
+    "wordRank": 419,
+    "headWord": "superficial",
+    "usspeech": "superficial&type=2",
+    "tranCn": "肤浅的"
+  },
+  {
+    "wordRank": 420,
+    "headWord": "flexibility",
+    "usspeech": "flexibility&type=2",
+    "tranCn": "灵活性；适应性"
+  },
+  {
+    "wordRank": 421,
+    "headWord": "favorable",
+    "usspeech": "favorable&type=2",
+    "tranCn": "赞同的"
+  },
+  {
+    "wordRank": 422,
+    "headWord": "competent",
+    "usspeech": "competent&type=2",
+    "tranCn": "胜任的，有能力的"
+  },
+  {
+    "wordRank": 423,
+    "headWord": "emotional",
+    "usspeech": "emotional&type=2",
+    "tranCn": "情绪(上)的，情感(上)的；激起感情的； 敏感的；情绪激动的〔尤指哭泣〕"
+  },
+  {
+    "wordRank": 424,
+    "headWord": "pioneer",
+    "usspeech": "pioneer&type=2",
+    "tranCn": "开拓，开发"
+  },
+  {
+    "wordRank": 425,
+    "headWord": "sustain",
+    "usspeech": "sustain&type=2",
+    "tranCn": "维持"
+  },
+  {
+    "wordRank": 426,
+    "headWord": "gloomy",
+    "usspeech": "gloomy&type=2",
+    "tranCn": "阴沉的，沮丧的"
+  },
+  {
+    "wordRank": 427,
+    "headWord": "convince",
+    "usspeech": "convince&type=2",
+    "tranCn": "使相信"
+  },
+  {
+    "wordRank": 428,
+    "headWord": "profitable",
+    "usspeech": "profitable&type=2",
+    "tranCn": "有利可图的，有益的"
+  },
+  {
+    "wordRank": 429,
+    "headWord": "routinely",
+    "usspeech": "routinely&type=2",
+    "tranCn": "例行公事地"
+  },
+  {
+    "wordRank": 430,
+    "headWord": "phenomenon",
+    "usspeech": "phenomenon&type=2",
+    "tranCn": "现象"
+  },
+  {
+    "wordRank": 431,
+    "headWord": "variety",
+    "usspeech": "variety&type=2",
+    "tranCn": "多样"
+  },
+  {
+    "wordRank": 432,
+    "headWord": "gum",
+    "usspeech": "gum&type=2",
+    "tranCn": "牙龈"
+  },
+  {
+    "wordRank": 433,
+    "headWord": "criticism",
+    "usspeech": "criticism&type=2",
+    "tranCn": "批评"
+  },
+  {
+    "wordRank": 434,
+    "headWord": "fatal",
+    "usspeech": "fatal&type=2",
+    "tranCn": "致命的，攸关的"
+  },
+  {
+    "wordRank": 435,
+    "headWord": "delightful",
+    "usspeech": "delightful&type=2",
+    "tranCn": "高兴的"
+  },
+  {
+    "wordRank": 436,
+    "headWord": "tedious",
+    "usspeech": "tedious&type=2",
+    "tranCn": "单调沉闷的"
+  },
+  {
+    "wordRank": 437,
+    "headWord": "flexible",
+    "usspeech": "flexible&type=2",
+    "tranCn": "灵活的"
+  },
+  {
+    "wordRank": 438,
+    "headWord": "considerably",
+    "usspeech": "considerably&type=2",
+    "tranCn": "相当地，非常地"
+  },
+  {
+    "wordRank": 439,
+    "headWord": "efficiently",
+    "usspeech": "efficiently&type=2",
+    "tranCn": "有效地"
+  },
+  {
+    "wordRank": 440,
+    "headWord": "appearance",
+    "usspeech": "appearance&type=2",
+    "tranCn": "外表, 外观；出现"
+  },
+  {
+    "wordRank": 441,
+    "headWord": "album",
+    "usspeech": "album&type=2",
+    "tranCn": "粘贴簿，集邮簿，册"
+  },
+  {
+    "wordRank": 442,
+    "headWord": "optimistic",
+    "usspeech": "optimistic&type=2",
+    "tranCn": "乐观的"
+  },
+  {
+    "wordRank": 443,
+    "headWord": "clue",
+    "usspeech": "clue&type=2",
+    "tranCn": "线索"
+  },
+  {
+    "wordRank": 444,
+    "headWord": "grief",
+    "usspeech": "grief&type=2",
+    "tranCn": "悲伤"
+  },
+  {
+    "wordRank": 445,
+    "headWord": "synthetic",
+    "usspeech": "synthetic&type=2",
+    "tranCn": "合成的，人造的"
+  },
+  {
+    "wordRank": 446,
+    "headWord": "resistance",
+    "usspeech": "resistance&type=2",
+    "tranCn": "抵御，抵抗；抵抗力"
+  },
+  {
+    "wordRank": 447,
+    "headWord": "install",
+    "usspeech": "install&type=2",
+    "tranCn": "安装"
+  },
+  {
+    "wordRank": 448,
+    "headWord": "pledge",
+    "usspeech": "pledge&type=2",
+    "tranCn": "保证，誓言"
+  },
+  {
+    "wordRank": 449,
+    "headWord": "unique",
+    "usspeech": "unique&type=2",
+    "tranCn": "独特的，唯一的"
+  },
+  {
+    "wordRank": 450,
+    "headWord": "stock",
+    "usspeech": "stock&type=2",
+    "tranCn": "股票；库存"
+  },
+  {
+    "wordRank": 451,
+    "headWord": "disadvantage",
+    "usspeech": "disadvantage&type=2",
+    "tranCn": "不利情况，缺点"
+  },
+  {
+    "wordRank": 452,
+    "headWord": "compensate",
+    "usspeech": "compensate&type=2",
+    "tranCn": "弥补，补偿"
+  },
+  {
+    "wordRank": 453,
+    "headWord": "rescue",
+    "usspeech": "rescue&type=2",
+    "tranCn": "营救，援救"
+  },
+  {
+    "wordRank": 454,
+    "headWord": "monitor",
+    "usspeech": "monitor&type=2",
+    "tranCn": "监控；监听"
+  },
+  {
+    "wordRank": 455,
+    "headWord": "refusal",
+    "usspeech": "refusal&type=2",
+    "tranCn": "拒绝"
+  },
+  {
+    "wordRank": 456,
+    "headWord": "exile",
+    "usspeech": "exile&type=2",
+    "tranCn": "流放，放逐"
+  },
+  {
+    "wordRank": 457,
+    "headWord": "encourage",
+    "usspeech": "encourage&type=2",
+    "tranCn": "鼓励"
+  },
+  {
+    "wordRank": 458,
+    "headWord": "concept",
+    "usspeech": "concept&type=2",
+    "tranCn": "观点，观念"
+  },
+  {
+    "wordRank": 459,
+    "headWord": "render",
+    "usspeech": "render&type=2",
+    "tranCn": "给予"
+  },
+  {
+    "wordRank": 460,
+    "headWord": "trait",
+    "usspeech": "trait&type=2",
+    "tranCn": "性格"
+  },
+  {
+    "wordRank": 461,
+    "headWord": "feature",
+    "usspeech": "feature&type=2",
+    "tranCn": "特点"
+  },
+  {
+    "wordRank": 462,
+    "headWord": "reframe",
+    "tranCn": "再构造(图画、照片等)"
+  },
+  {
+    "wordRank": 463,
+    "headWord": "identify",
+    "usspeech": "identify&type=2",
+    "tranCn": "认出，识别；视为"
+  },
+  {
+    "wordRank": 464,
+    "headWord": "impose",
+    "usspeech": "impose&type=2",
+    "tranCn": "强加"
+  },
+  {
+    "wordRank": 465,
+    "headWord": "snack",
+    "usspeech": "snack&type=2",
+    "tranCn": "零食，小吃"
+  },
+  {
+    "wordRank": 466,
+    "headWord": "require",
+    "usspeech": "require&type=2",
+    "tranCn": "要求，命令"
+  },
+  {
+    "wordRank": 467,
+    "headWord": "donation",
+    "usspeech": "donation&type=2",
+    "tranCn": "捐赠"
+  },
+  {
+    "wordRank": 468,
+    "headWord": "equal",
+    "usspeech": "equal&type=2",
+    "tranCn": "相等的，平等的"
+  },
+  {
+    "wordRank": 469,
+    "headWord": "rare",
+    "usspeech": "rare&type=2",
+    "tranCn": "罕有的，少见的"
+  },
+  {
+    "wordRank": 470,
+    "headWord": "specify",
+    "usspeech": "specify&type=2",
+    "tranCn": "指定，具体说明"
+  },
+  {
+    "wordRank": 471,
+    "headWord": "constant",
+    "usspeech": "constant&type=2",
+    "tranCn": "不断的，持续的"
+  },
+  {
+    "wordRank": 472,
+    "headWord": "standardize",
+    "usspeech": "standardize&type=2",
+    "tranCn": "使标准化"
+  },
+  {
+    "wordRank": 473,
+    "headWord": "consume",
+    "usspeech": "consume&type=2",
+    "tranCn": "消费，消耗"
+  },
+  {
+    "wordRank": 474,
+    "headWord": "status",
+    "usspeech": "status&type=2",
+    "tranCn": "地位"
+  },
+  {
+    "wordRank": 475,
+    "headWord": "complement",
+    "usspeech": "complement&type=2",
+    "tranCn": "补充"
+  },
+  {
+    "wordRank": 476,
+    "headWord": "lengthy",
+    "usspeech": "lengthy&type=2",
+    "tranCn": "长的，漫长的"
+  },
+  {
+    "wordRank": 477,
+    "headWord": "embarrassed",
+    "usspeech": "embarrassed&type=2",
+    "tranCn": "尴尬的；窘迫的"
+  },
+  {
+    "wordRank": 478,
+    "headWord": "rational",
+    "usspeech": "rational&type=2",
+    "tranCn": "神智清楚的"
+  },
+  {
+    "wordRank": 479,
+    "headWord": "distant",
+    "usspeech": "distant&type=2",
+    "tranCn": "遥远的"
+  },
+  {
+    "wordRank": 480,
+    "headWord": "homemaker",
+    "usspeech": "homemaker&type=2",
+    "tranCn": "主妇"
+  },
+  {
+    "wordRank": 481,
+    "headWord": "exception",
+    "usspeech": "exception&type=2",
+    "tranCn": "例外"
+  },
+  {
+    "wordRank": 482,
+    "headWord": "sustainable",
+    "usspeech": "sustainable&type=2",
+    "tranCn": "可持续的"
+  },
+  {
+    "wordRank": 483,
+    "headWord": "trigger",
+    "usspeech": "trigger&type=2",
+    "tranCn": "引发，引起"
+  },
+  {
+    "wordRank": 484,
+    "headWord": "intend",
+    "usspeech": "intend&type=2",
+    "tranCn": "打算"
+  },
+  {
+    "wordRank": 485,
+    "headWord": "spread",
+    "usspeech": "spread&type=2",
+    "tranCn": "扩散；传播"
+  },
+  {
+    "wordRank": 486,
+    "headWord": "estimate",
+    "usspeech": "estimate&type=2",
+    "tranCn": "估计"
+  },
+  {
+    "wordRank": 487,
+    "headWord": "technique",
+    "usspeech": "technique&type=2",
+    "tranCn": "技巧，手艺；技术，技能"
+  },
+  {
+    "wordRank": 488,
+    "headWord": "include",
+    "usspeech": "include&type=2",
+    "tranCn": "包含"
+  },
+  {
+    "wordRank": 489,
+    "headWord": "academic",
+    "usspeech": "academic&type=2",
+    "tranCn": "学术的"
+  },
+  {
+    "wordRank": 490,
+    "headWord": "distinctive",
+    "usspeech": "distinctive&type=2",
+    "tranCn": "独特的，与众不同的"
+  },
+  {
+    "wordRank": 491,
+    "headWord": "consist",
+    "usspeech": "consist&type=2",
+    "tranCn": "由……组成"
+  },
+  {
+    "wordRank": 492,
+    "headWord": "bid",
+    "usspeech": "bid&type=2",
+    "tranCn": "出价，投标；出价，投标"
+  },
+  {
+    "wordRank": 493,
+    "headWord": "benefit",
+    "usspeech": "benefit&type=2",
+    "tranCn": "有益于，有助于"
+  },
+  {
+    "wordRank": 494,
+    "headWord": "downsize",
+    "usspeech": "downsize&type=2",
+    "tranCn": "裁员"
+  },
+  {
+    "wordRank": 495,
+    "headWord": "avoid",
+    "usspeech": "avoid&type=2",
+    "tranCn": "避免"
+  },
+  {
+    "wordRank": 496,
+    "headWord": "gender",
+    "usspeech": "gender&type=2",
+    "tranCn": "性别"
+  },
+  {
+    "wordRank": 497,
+    "headWord": "interracial",
+    "usspeech": "interracial&type=2",
+    "tranCn": "种族间的"
+  },
+  {
+    "wordRank": 498,
+    "headWord": "complaint",
+    "usspeech": "complaint&type=2",
+    "tranCn": "抱怨; 投诉"
+  },
+  {
+    "wordRank": 499,
+    "headWord": "pattern",
+    "usspeech": "pattern&type=2",
+    "tranCn": "模式"
+  },
+  {
+    "wordRank": 500,
+    "headWord": "mood",
+    "usspeech": "mood&type=2",
+    "tranCn": "心情"
+  },
+  {
+    "wordRank": 501,
+    "headWord": "sympathy",
+    "usspeech": "sympathy&type=2",
+    "tranCn": "同情心"
+  },
+  {
+    "wordRank": 502,
+    "headWord": "discount",
+    "usspeech": "discount&type=2",
+    "tranCn": "折扣"
+  },
+  {
+    "wordRank": 503,
+    "headWord": "value",
+    "usspeech": "value&type=2",
+    "tranCn": "重视"
+  },
+  {
+    "wordRank": 504,
+    "headWord": "altitude",
+    "usspeech": "altitude&type=2",
+    "tranCn": "海拔, 高度"
+  },
+  {
+    "wordRank": 505,
+    "headWord": "groundsheet",
+    "usspeech": "groundsheet&type=2",
+    "tranCn": "防潮布"
+  },
+  {
+    "wordRank": 506,
+    "headWord": "evolutionary",
+    "usspeech": "evolutionary&type=2",
+    "tranCn": "进化的；演变的"
+  },
+  {
+    "wordRank": 507,
+    "headWord": "implement",
+    "usspeech": "implement&type=2",
+    "tranCn": "实施，执行"
+  },
+  {
+    "wordRank": 508,
+    "headWord": "dominant",
+    "usspeech": "dominant&type=2",
+    "tranCn": "占优势的"
+  },
+  {
+    "wordRank": 509,
+    "headWord": "scope",
+    "usspeech": "scope&type=2",
+    "tranCn": "范围"
+  },
+  {
+    "wordRank": 510,
+    "headWord": "suspect",
+    "usspeech": "suspect&type=2",
+    "tranCn": "怀疑，猜想；嫌疑犯"
+  },
+  {
+    "wordRank": 511,
+    "headWord": "confrontation",
+    "usspeech": "confrontation&type=2",
+    "tranCn": "冲突，对抗"
+  },
+  {
+    "wordRank": 512,
+    "headWord": "puzzle",
+    "usspeech": "puzzle&type=2",
+    "tranCn": "迷惑；难解之事，谜"
+  },
+  {
+    "wordRank": 513,
+    "headWord": "critic",
+    "usspeech": "critic&type=2",
+    "tranCn": "批评家，评论家"
+  },
+  {
+    "wordRank": 514,
+    "headWord": "apartment",
+    "usspeech": "apartment&type=2",
+    "tranCn": "公寓"
+  },
+  {
+    "wordRank": 515,
+    "headWord": "analyze",
+    "usspeech": "analyze&type=2",
+    "tranCn": "分析"
+  },
+  {
+    "wordRank": 516,
+    "headWord": "maintain",
+    "usspeech": "maintain&type=2",
+    "tranCn": "维持；主张"
+  },
+  {
+    "wordRank": 517,
+    "headWord": "curb",
+    "usspeech": "curb&type=2",
+    "tranCn": "控制；控制"
+  },
+  {
+    "wordRank": 518,
+    "headWord": "version",
+    "usspeech": "version&type=2",
+    "tranCn": "版本"
+  },
+  {
+    "wordRank": 519,
+    "headWord": "rival",
+    "usspeech": "rival&type=2",
+    "tranCn": "对手"
+  },
+  {
+    "wordRank": 520,
+    "headWord": "beneficial",
+    "usspeech": "beneficial&type=2",
+    "tranCn": "有利的，有益的"
+  },
+  {
+    "wordRank": 521,
+    "headWord": "substantial",
+    "usspeech": "substantial&type=2",
+    "tranCn": "大量的"
+  },
+  {
+    "wordRank": 522,
+    "headWord": "recover",
+    "usspeech": "recover&type=2",
+    "tranCn": "恢复；重新获得；寻回"
+  },
+  {
+    "wordRank": 523,
+    "headWord": "diploma",
+    "usspeech": "diploma&type=2",
+    "tranCn": "文凭"
+  },
+  {
+    "wordRank": 524,
+    "headWord": "carpenter",
+    "usspeech": "carpenter&type=2",
+    "tranCn": "木匠"
+  },
+  {
+    "wordRank": 525,
+    "headWord": "circumstance",
+    "usspeech": "circumstance&type=2",
+    "tranCn": "环境，境遇"
+  },
+  {
+    "wordRank": 526,
+    "headWord": "canteen",
+    "usspeech": "canteen&type=2",
+    "tranCn": "食堂"
+  },
+  {
+    "wordRank": 527,
+    "headWord": "advocator",
+    "tranCn": "主张者，倡导者"
+  },
+  {
+    "wordRank": 528,
+    "headWord": "disorderly",
+    "usspeech": "disorderly&type=2",
+    "tranCn": "杂乱的"
+  },
+  {
+    "wordRank": 529,
+    "headWord": "essentially",
+    "usspeech": "essentially&type=2",
+    "tranCn": "本质上，根本上"
+  },
+  {
+    "wordRank": 530,
+    "headWord": "prevent",
+    "usspeech": "prevent&type=2",
+    "tranCn": "预防"
+  },
+  {
+    "wordRank": 531,
+    "headWord": "ceremony",
+    "usspeech": "ceremony&type=2",
+    "tranCn": "典礼，仪式"
+  },
+  {
+    "wordRank": 532,
+    "headWord": "assume",
+    "usspeech": "assume&type=2",
+    "tranCn": "假定，认为"
+  },
+  {
+    "wordRank": 533,
+    "headWord": "demand",
+    "usspeech": "demand&type=2",
+    "tranCn": "需求，要求；要求"
+  },
+  {
+    "wordRank": 534,
+    "headWord": "principle",
+    "usspeech": "principle&type=2",
+    "tranCn": "原则，原理"
+  },
+  {
+    "wordRank": 535,
+    "headWord": "reception",
+    "usspeech": "reception&type=2",
+    "tranCn": "接待；反响"
+  },
+  {
+    "wordRank": 536,
+    "headWord": "transfer",
+    "usspeech": "transfer&type=2",
+    "tranCn": "转换，调换；转换，调换"
+  },
+  {
+    "wordRank": 537,
+    "headWord": "preventable",
+    "usspeech": "preventable&type=2",
+    "tranCn": "可预防的"
+  },
+  {
+    "wordRank": 538,
+    "headWord": "anticipate",
+    "usspeech": "anticipate&type=2",
+    "tranCn": "预感"
+  },
+  {
+    "wordRank": 539,
+    "headWord": "assumption",
+    "usspeech": "assumption&type=2",
+    "tranCn": "假定，假设"
+  },
+  {
+    "wordRank": 540,
+    "headWord": "prescription",
+    "usspeech": "prescription&type=2",
+    "tranCn": "处方"
+  },
+  {
+    "wordRank": 541,
+    "headWord": "evolution",
+    "usspeech": "evolution&type=2",
+    "tranCn": "演变，进化"
+  },
+  {
+    "wordRank": 542,
+    "headWord": "annoy",
+    "usspeech": "annoy&type=2",
+    "tranCn": "使反感，厌烦"
+  },
+  {
+    "wordRank": 543,
+    "headWord": "unintended",
+    "usspeech": "unintended&type=2",
+    "tranCn": "意想不到的"
+  },
+  {
+    "wordRank": 544,
+    "headWord": "origin",
+    "usspeech": "origin&type=2",
+    "tranCn": "起源"
+  },
+  {
+    "wordRank": 545,
+    "headWord": "qualify",
+    "usspeech": "qualify&type=2",
+    "tranCn": "使……有资格"
+  },
+  {
+    "wordRank": 546,
+    "headWord": "emergence",
+    "usspeech": "emergence&type=2",
+    "tranCn": "出现，发生"
+  },
+  {
+    "wordRank": 547,
+    "headWord": "complain",
+    "usspeech": "complain&type=2",
+    "tranCn": "抱怨"
+  },
+  {
+    "wordRank": 548,
+    "headWord": "merit",
+    "usspeech": "merit&type=2",
+    "tranCn": "优点，成绩；值得"
+  },
+  {
+    "wordRank": 549,
+    "headWord": "forum",
+    "usspeech": "forum&type=2",
+    "tranCn": "论坛"
+  },
+  {
+    "wordRank": 550,
+    "headWord": "arrange",
+    "usspeech": "arrange&type=2",
+    "tranCn": "安排，筹划"
+  },
+  {
+    "wordRank": 551,
+    "headWord": "determination",
+    "usspeech": "determination&type=2",
+    "tranCn": "意志"
+  },
+  {
+    "wordRank": 552,
+    "headWord": "bargain",
+    "usspeech": "bargain&type=2",
+    "tranCn": "便宜货，减价品"
+  },
+  {
+    "wordRank": 553,
+    "headWord": "appetite",
+    "usspeech": "appetite&type=2",
+    "tranCn": "欲望, 胃口"
+  },
+  {
+    "wordRank": 554,
+    "headWord": "neutral",
+    "usspeech": "neutral&type=2",
+    "tranCn": "中立的"
+  },
+  {
+    "wordRank": 555,
+    "headWord": "primitive",
+    "usspeech": "primitive&type=2",
+    "tranCn": "原始的；简单的；简单的，简陋的"
+  },
+  {
+    "wordRank": 556,
+    "headWord": "therapy",
+    "usspeech": "therapy&type=2",
+    "tranCn": "疗法 治疗"
+  },
+  {
+    "wordRank": 557,
+    "headWord": "conscience",
+    "usspeech": "conscience&type=2",
+    "tranCn": "良心"
+  },
+  {
+    "wordRank": 558,
+    "headWord": "define",
+    "usspeech": "define&type=2",
+    "tranCn": "确定；下定义"
+  },
+  {
+    "wordRank": 559,
+    "headWord": "creativity",
+    "usspeech": "creativity&type=2",
+    "tranCn": "创造力"
+  },
+  {
+    "wordRank": 560,
+    "headWord": "tailor",
+    "usspeech": "tailor&type=2",
+    "tranCn": "调整使适应"
+  },
+  {
+    "wordRank": 561,
+    "headWord": "dramatically",
+    "usspeech": "dramatically&type=2",
+    "tranCn": "戏剧性地，引人注目地"
+  },
+  {
+    "wordRank": 562,
+    "headWord": "panic",
+    "usspeech": "panic&type=2",
+    "tranCn": "惊恐"
+  },
+  {
+    "wordRank": 563,
+    "headWord": "motivation",
+    "usspeech": "motivation&type=2",
+    "tranCn": "激励，刺激"
+  },
+  {
+    "wordRank": 564,
+    "headWord": "durable",
+    "usspeech": "durable&type=2",
+    "tranCn": "持久的，耐用的"
+  },
+  {
+    "wordRank": 565,
+    "headWord": "remedy",
+    "usspeech": "remedy&type=2",
+    "tranCn": "药物"
+  },
+  {
+    "wordRank": 566,
+    "headWord": "inevitable",
+    "usspeech": "inevitable&type=2",
+    "tranCn": "不可避免的"
+  },
+  {
+    "wordRank": 567,
+    "headWord": "diverse",
+    "usspeech": "diverse&type=2",
+    "tranCn": "各种各样的"
+  },
+  {
+    "wordRank": 568,
+    "headWord": "context",
+    "usspeech": "context&type=2",
+    "tranCn": "背景，环境"
+  },
+  {
+    "wordRank": 569,
+    "headWord": "prominent",
+    "usspeech": "prominent&type=2",
+    "tranCn": "杰出的；突出的，凸起的"
+  },
+  {
+    "wordRank": 570,
+    "headWord": "witness",
+    "usspeech": "witness&type=2",
+    "tranCn": "目击者，目击"
+  },
+  {
+    "wordRank": 571,
+    "headWord": "save",
+    "usspeech": "save&type=2",
+    "tranCn": "节省"
+  },
+  {
+    "wordRank": 572,
+    "headWord": "inherit",
+    "usspeech": "inherit&type=2",
+    "tranCn": "继承"
+  },
+  {
+    "wordRank": 573,
+    "headWord": "occasion",
+    "usspeech": "occasion&type=2",
+    "tranCn": "场合"
+  },
+  {
+    "wordRank": 574,
+    "headWord": "initiative",
+    "usspeech": "initiative&type=2",
+    "tranCn": "主动权，自主权"
+  },
+  {
+    "wordRank": 575,
+    "headWord": "insight",
+    "usspeech": "insight&type=2",
+    "tranCn": "洞察力，洞悉"
+  },
+  {
+    "wordRank": 576,
+    "headWord": "misguided",
+    "usspeech": "misguided&type=2",
+    "tranCn": "被误导的"
+  },
+  {
+    "wordRank": 577,
+    "headWord": "sponsor",
+    "usspeech": "sponsor&type=2",
+    "tranCn": "赞助"
+  },
+  {
+    "wordRank": 578,
+    "headWord": "porter",
+    "usspeech": "porter&type=2",
+    "tranCn": "搬运工"
+  },
+  {
+    "wordRank": 579,
+    "headWord": "loyalty",
+    "usspeech": "loyalty&type=2",
+    "tranCn": "忠诚，忠实"
+  },
+  {
+    "wordRank": 580,
+    "headWord": "overwhelming",
+    "usspeech": "overwhelming&type=2",
+    "tranCn": "压倒性的"
+  },
+  {
+    "wordRank": 581,
+    "headWord": "appreciation",
+    "usspeech": "appreciation&type=2",
+    "tranCn": "感激"
+  },
+  {
+    "wordRank": 582,
+    "headWord": "setting",
+    "usspeech": "setting&type=2",
+    "tranCn": "背景，环境"
+  },
+  {
+    "wordRank": 583,
+    "headWord": "display",
+    "usspeech": "display&type=2",
+    "tranCn": "展览；展览"
+  },
+  {
+    "wordRank": 584,
+    "headWord": "deliver",
+    "usspeech": "deliver&type=2",
+    "tranCn": "发表"
+  },
+  {
+    "wordRank": 585,
+    "headWord": "astonish",
+    "usspeech": "astonish&type=2",
+    "tranCn": "使惊讶，使大为吃惊"
+  },
+  {
+    "wordRank": 586,
+    "headWord": "adequate",
+    "usspeech": "adequate&type=2",
+    "tranCn": "足够的"
+  },
+  {
+    "wordRank": 587,
+    "headWord": "consumption",
+    "usspeech": "consumption&type=2",
+    "tranCn": "消费，消耗"
+  },
+  {
+    "wordRank": 588,
+    "headWord": "abuse",
+    "usspeech": "abuse&type=2",
+    "tranCn": "虐待；滥用"
+  },
+  {
+    "wordRank": 589,
+    "headWord": "broad",
+    "usspeech": "broad&type=2",
+    "tranCn": "宽的"
+  },
+  {
+    "wordRank": 590,
+    "headWord": "inappropriate",
+    "usspeech": "inappropriate&type=2",
+    "tranCn": "不合适的"
+  },
+  {
+    "wordRank": 591,
+    "headWord": "worldwide",
+    "usspeech": "worldwide&type=2",
+    "tranCn": "全世界范围地"
+  },
+  {
+    "wordRank": 592,
+    "headWord": "strict",
+    "usspeech": "strict&type=2",
+    "tranCn": "严格的"
+  },
+  {
+    "wordRank": 593,
+    "headWord": "means",
+    "usspeech": "means&type=2",
+    "tranCn": "方法"
+  },
+  {
+    "wordRank": 594,
+    "headWord": "reveal",
+    "usspeech": "reveal&type=2",
+    "tranCn": "揭露，揭示"
+  },
+  {
+    "wordRank": 595,
+    "headWord": "confirm",
+    "usspeech": "confirm&type=2",
+    "tranCn": "证实"
+  },
+  {
+    "wordRank": 596,
+    "headWord": "consensus",
+    "usspeech": "consensus&type=2",
+    "tranCn": "一致意见"
+  },
+  {
+    "wordRank": 597,
+    "headWord": "agent",
+    "usspeech": "agent&type=2",
+    "tranCn": "代理商"
+  },
+  {
+    "wordRank": 598,
+    "headWord": "neighborhood",
+    "usspeech": "neighborhood&type=2",
+    "tranCn": "地区"
+  },
+  {
+    "wordRank": 599,
+    "headWord": "participate",
+    "usspeech": "participate&type=2",
+    "tranCn": "参与，参加"
+  },
+  {
+    "wordRank": 600,
+    "headWord": "valid",
+    "usspeech": "valid&type=2",
+    "tranCn": "有效的"
+  },
+  {
+    "wordRank": 601,
+    "headWord": "initially",
+    "usspeech": "initially&type=2",
+    "tranCn": "最初，起初"
+  },
+  {
+    "wordRank": 602,
+    "headWord": "slightly",
+    "usspeech": "slightly&type=2",
+    "tranCn": "轻微地"
+  },
+  {
+    "wordRank": 603,
+    "headWord": "objection",
+    "usspeech": "objection&type=2",
+    "tranCn": "反对"
+  },
+  {
+    "wordRank": 604,
+    "headWord": "atmosphere",
+    "usspeech": "atmosphere&type=2",
+    "tranCn": "气氛；大气；空气"
+  },
+  {
+    "wordRank": 605,
+    "headWord": "assign",
+    "usspeech": "assign&type=2",
+    "tranCn": "布置；分配"
+  },
+  {
+    "wordRank": 606,
+    "headWord": "evidence",
+    "usspeech": "evidence&type=2",
+    "tranCn": "根据，证据，迹象"
+  },
+  {
+    "wordRank": 607,
+    "headWord": "racially",
+    "tranCn": "种族上地"
+  },
+  {
+    "wordRank": 608,
+    "headWord": "exclude",
+    "usspeech": "exclude&type=2",
+    "tranCn": "排除，不包括"
+  },
+  {
+    "wordRank": 609,
+    "headWord": "available",
+    "usspeech": "available&type=2",
+    "tranCn": "可利用的，现有的；可获得的"
+  },
+  {
+    "wordRank": 610,
+    "headWord": "puzzling",
+    "usspeech": "puzzling&type=2",
+    "tranCn": "令人困惑的"
+  },
+  {
+    "wordRank": 611,
+    "headWord": "evaluation",
+    "usspeech": "evaluation&type=2",
+    "tranCn": "评价，评估"
+  },
+  {
+    "wordRank": 612,
+    "headWord": "irritate",
+    "usspeech": "irritate&type=2",
+    "tranCn": "激怒"
+  },
+  {
+    "wordRank": 613,
+    "headWord": "distinguished",
+    "usspeech": "distinguished&type=2",
+    "tranCn": "显著的，杰出的"
+  },
+  {
+    "wordRank": 614,
+    "headWord": "depressing",
+    "usspeech": "depressing&type=2",
+    "tranCn": "令人沮丧的"
+  },
+  {
+    "wordRank": 615,
+    "headWord": "mutually",
+    "usspeech": "mutually&type=2",
+    "tranCn": "互相地"
+  },
+  {
+    "wordRank": 616,
+    "headWord": "mission",
+    "usspeech": "mission&type=2",
+    "tranCn": "使命，任务；代表团"
+  },
+  {
+    "wordRank": 617,
+    "headWord": "migration",
+    "usspeech": "migration&type=2",
+    "tranCn": "迁移，移民"
+  },
+  {
+    "wordRank": 618,
+    "headWord": "site",
+    "usspeech": "site&type=2",
+    "tranCn": "场所，地址"
+  },
+  {
+    "wordRank": 619,
+    "headWord": "expectation",
+    "usspeech": "expectation&type=2",
+    "tranCn": "期望"
+  },
+  {
+    "wordRank": 620,
+    "headWord": "update",
+    "usspeech": "update&type=2",
+    "tranCn": "更新；使现代化"
+  },
+  {
+    "wordRank": 621,
+    "headWord": "gear",
+    "usspeech": "gear&type=2",
+    "tranCn": "齿轮；使合适"
+  },
+  {
+    "wordRank": 622,
+    "headWord": "reproductive",
+    "usspeech": "reproductive&type=2",
+    "tranCn": "生殖的，再生的"
+  },
+  {
+    "wordRank": 623,
+    "headWord": "incredible",
+    "usspeech": "incredible&type=2",
+    "tranCn": "不可思议的"
+  },
+  {
+    "wordRank": 624,
+    "headWord": "backward",
+    "usspeech": "backward&type=2",
+    "tranCn": "向后"
+  },
+  {
+    "wordRank": 625,
+    "headWord": "raise",
+    "usspeech": "raise&type=2",
+    "tranCn": "提高；筹款；抚养"
+  },
+  {
+    "wordRank": 626,
+    "headWord": "prohibit",
+    "usspeech": "prohibit&type=2",
+    "tranCn": "禁止，阻止，防止"
+  },
+  {
+    "wordRank": 627,
+    "headWord": "bother",
+    "usspeech": "bother&type=2",
+    "tranCn": "麻烦；打扰"
+  },
+  {
+    "wordRank": 628,
+    "headWord": "pose",
+    "usspeech": "pose&type=2",
+    "tranCn": "摆姿势，装腔作势；姿势"
+  },
+  {
+    "wordRank": 629,
+    "headWord": "instrument",
+    "usspeech": "instrument&type=2",
+    "tranCn": "仪器，器械，工具"
+  },
+  {
+    "wordRank": 630,
+    "headWord": "mask",
+    "usspeech": "mask&type=2",
+    "tranCn": "掩饰"
+  },
+  {
+    "wordRank": 631,
+    "headWord": "essential",
+    "usspeech": "essential&type=2",
+    "tranCn": "必须的；本质的"
+  },
+  {
+    "wordRank": 632,
+    "headWord": "harvest",
+    "usspeech": "harvest&type=2",
+    "tranCn": "丰收，收获"
+  },
+  {
+    "wordRank": 633,
+    "headWord": "reject",
+    "usspeech": "reject&type=2",
+    "tranCn": "拒绝，驳回"
+  },
+  {
+    "wordRank": 634,
+    "headWord": "advancement",
+    "usspeech": "advancement&type=2",
+    "tranCn": "进步，提升"
+  },
+  {
+    "wordRank": 635,
+    "headWord": "skyrocket",
+    "usspeech": "skyrocket&type=2",
+    "tranCn": "突升，猛涨"
+  },
+  {
+    "wordRank": 636,
+    "headWord": "characteristic",
+    "usspeech": "characteristic&type=2",
+    "tranCn": "特点"
+  },
+  {
+    "wordRank": 637,
+    "headWord": "implication",
+    "usspeech": "implication&type=2",
+    "tranCn": "含义，暗示"
+  },
+  {
+    "wordRank": 638,
+    "headWord": "measure",
+    "usspeech": "measure&type=2",
+    "tranCn": "分量；测量"
+  },
+  {
+    "wordRank": 639,
+    "headWord": "replacement",
+    "usspeech": "replacement&type=2",
+    "tranCn": "代替"
+  },
+  {
+    "wordRank": 640,
+    "headWord": "easygoing",
+    "usspeech": "easygoing&type=2",
+    "tranCn": "脾气随和的，温和的"
+  },
+  {
+    "wordRank": 641,
+    "headWord": "squeeze",
+    "usspeech": "squeeze&type=2",
+    "tranCn": "压，榨"
+  },
+  {
+    "wordRank": 642,
+    "headWord": "exhibition",
+    "usspeech": "exhibition&type=2",
+    "tranCn": "展览"
+  },
+  {
+    "wordRank": 643,
+    "headWord": "responsibility",
+    "usspeech": "responsibility&type=2",
+    "tranCn": "责任"
+  },
+  {
+    "wordRank": 644,
+    "headWord": "enhance",
+    "usspeech": "enhance&type=2",
+    "tranCn": "提高；加强；增加"
+  },
+  {
+    "wordRank": 645,
+    "headWord": "retain",
+    "usspeech": "retain&type=2",
+    "tranCn": "保留,留用"
+  },
+  {
+    "wordRank": 646,
+    "headWord": "convey",
+    "usspeech": "convey&type=2",
+    "tranCn": "传达，传递"
+  },
+  {
+    "wordRank": 647,
+    "headWord": "regulation",
+    "usspeech": "regulation&type=2",
+    "tranCn": "管理；规则"
+  },
+  {
+    "wordRank": 648,
+    "headWord": "integrity",
+    "usspeech": "integrity&type=2",
+    "tranCn": "完整"
+  },
+  {
+    "wordRank": 649,
+    "headWord": "combine",
+    "usspeech": "combine&type=2",
+    "tranCn": "联合，结合"
+  },
+  {
+    "wordRank": 650,
+    "headWord": "impermanency",
+    "tranCn": "非永久性"
+  },
+  {
+    "wordRank": 651,
+    "headWord": "catalogue",
+    "usspeech": "catalogue&type=2",
+    "tranCn": "把……编入目录"
+  },
+  {
+    "wordRank": 652,
+    "headWord": "council",
+    "usspeech": "council&type=2",
+    "tranCn": "议会"
+  },
+  {
+    "wordRank": 653,
+    "headWord": "prepare",
+    "usspeech": "prepare&type=2",
+    "tranCn": "做准备"
+  },
+  {
+    "wordRank": 654,
+    "headWord": "inquiry",
+    "usspeech": "inquiry&type=2",
+    "tranCn": "询问"
+  },
+  {
+    "wordRank": 655,
+    "headWord": "tension",
+    "usspeech": "tension&type=2",
+    "tranCn": "紧张"
+  },
+  {
+    "wordRank": 656,
+    "headWord": "prompt",
+    "usspeech": "prompt&type=2",
+    "tranCn": "迅速的；立刻的；及时的；促使；激励"
+  },
+  {
+    "wordRank": 657,
+    "headWord": "attendance",
+    "usspeech": "attendance&type=2",
+    "tranCn": "出席人数"
+  },
+  {
+    "wordRank": 658,
+    "headWord": "retail",
+    "usspeech": "retail&type=2",
+    "tranCn": "零售；零售"
+  },
+  {
+    "wordRank": 659,
+    "headWord": "image",
+    "usspeech": "image&type=2",
+    "tranCn": "形象，声誉，；印象"
+  },
+  {
+    "wordRank": 660,
+    "headWord": "quantity",
+    "usspeech": "quantity&type=2",
+    "tranCn": "量，数量"
+  },
+  {
+    "wordRank": 661,
+    "headWord": "inspector",
+    "usspeech": "inspector&type=2",
+    "tranCn": "检查员"
+  },
+  {
+    "wordRank": 662,
+    "headWord": "endurance",
+    "usspeech": "endurance&type=2",
+    "tranCn": "耐力"
+  },
+  {
+    "wordRank": 663,
+    "headWord": "simplify",
+    "usspeech": "simplify&type=2",
+    "tranCn": "简化"
+  },
+  {
+    "wordRank": 664,
+    "headWord": "range",
+    "usspeech": "range&type=2",
+    "tranCn": "范围；在范围内变化"
+  },
+  {
+    "wordRank": 665,
+    "headWord": "accomplish",
+    "usspeech": "accomplish&type=2",
+    "tranCn": "完成"
+  },
+  {
+    "wordRank": 666,
+    "headWord": "treatment",
+    "usspeech": "treatment&type=2",
+    "tranCn": "治疗；对待"
+  },
+  {
+    "wordRank": 667,
+    "headWord": "spare",
+    "usspeech": "spare&type=2",
+    "tranCn": "空闲的"
+  },
+  {
+    "wordRank": 668,
+    "headWord": "welfare",
+    "usspeech": "welfare&type=2",
+    "tranCn": "幸福；福利"
+  },
+  {
+    "wordRank": 669,
+    "headWord": "boost",
+    "usspeech": "boost&type=2",
+    "tranCn": "推动；促使，促进"
+  },
+  {
+    "wordRank": 670,
+    "headWord": "consciousness",
+    "usspeech": "consciousness&type=2",
+    "tranCn": "意识"
+  },
+  {
+    "wordRank": 671,
+    "headWord": "patiently",
+    "usspeech": "patiently&type=2",
+    "tranCn": "耐心地"
+  },
+  {
+    "wordRank": 672,
+    "headWord": "decent",
+    "usspeech": "decent&type=2",
+    "tranCn": "正派的，体面的"
+  },
+  {
+    "wordRank": 673,
+    "headWord": "review",
+    "usspeech": "review&type=2",
+    "tranCn": "回顾；复习"
+  },
+  {
+    "wordRank": 674,
+    "headWord": "considerable",
+    "usspeech": "considerable&type=2",
+    "tranCn": "相当大(或多)的"
+  },
+  {
+    "wordRank": 675,
+    "headWord": "misguide",
+    "usspeech": "misguide&type=2",
+    "tranCn": "误导"
+  },
+  {
+    "wordRank": 676,
+    "headWord": "foundation",
+    "usspeech": "foundation&type=2",
+    "tranCn": "地基；基础；；基金会"
+  },
+  {
+    "wordRank": 677,
+    "headWord": "postgraduate",
+    "usspeech": "postgraduate&type=2",
+    "tranCn": "研究生"
+  },
+  {
+    "wordRank": 678,
+    "headWord": "prevail",
+    "usspeech": "prevail&type=2",
+    "tranCn": "流行，盛行"
+  },
+  {
+    "wordRank": 679,
+    "headWord": "solid",
+    "usspeech": "solid&type=2",
+    "tranCn": "扎实的，坚实的"
+  },
+  {
+    "wordRank": 680,
+    "headWord": "counsel",
+    "usspeech": "counsel&type=2",
+    "tranCn": "忠告，建议"
+  },
+  {
+    "wordRank": 681,
+    "headWord": "maximum",
+    "usspeech": "maximum&type=2",
+    "tranCn": "最大值，最大量；最大值的，最大量的"
+  },
+  {
+    "wordRank": 682,
+    "headWord": "abstract",
+    "usspeech": "abstract&type=2",
+    "tranCn": "抽象的"
+  },
+  {
+    "wordRank": 683,
+    "headWord": "realistic",
+    "usspeech": "realistic&type=2",
+    "tranCn": "现实的，实际的"
+  },
+  {
+    "wordRank": 684,
+    "headWord": "ban",
+    "usspeech": "ban&type=2",
+    "tranCn": "禁止"
+  },
+  {
+    "wordRank": 685,
+    "headWord": "ashamed",
+    "usspeech": "ashamed&type=2",
+    "tranCn": "羞耻的；内疚的；惭愧的"
+  },
+  {
+    "wordRank": 686,
+    "headWord": "solve",
+    "usspeech": "solve&type=2",
+    "tranCn": "解决"
+  },
+  {
+    "wordRank": 687,
+    "headWord": "reinforce",
+    "usspeech": "reinforce&type=2",
+    "tranCn": "加强，强化"
+  },
+  {
+    "wordRank": 688,
+    "headWord": "applicant",
+    "usspeech": "applicant&type=2",
+    "tranCn": "申请人"
+  },
+  {
+    "wordRank": 689,
+    "headWord": "tuition",
+    "usspeech": "tuition&type=2",
+    "tranCn": "学费"
+  },
+  {
+    "wordRank": 690,
+    "headWord": "persistence",
+    "usspeech": "persistence&type=2",
+    "tranCn": "坚持不懈"
+  },
+  {
+    "wordRank": 691,
+    "headWord": "overcome",
+    "usspeech": "overcome&type=2",
+    "tranCn": "战胜，克服"
+  },
+  {
+    "wordRank": 692,
+    "headWord": "bride",
+    "usspeech": "bride&type=2",
+    "tranCn": "新娘"
+  },
+  {
+    "wordRank": 693,
+    "headWord": "engagement",
+    "usspeech": "engagement&type=2",
+    "tranCn": "婚约"
+  },
+  {
+    "wordRank": 694,
+    "headWord": "household",
+    "usspeech": "household&type=2",
+    "tranCn": "家庭，一家人"
+  },
+  {
+    "wordRank": 695,
+    "headWord": "evaluate",
+    "usspeech": "evaluate&type=2",
+    "tranCn": "评价"
+  },
+  {
+    "wordRank": 696,
+    "headWord": "saint",
+    "usspeech": "saint&type=2",
+    "tranCn": "圣人"
+  },
+  {
+    "wordRank": 697,
+    "headWord": "delay",
+    "usspeech": "delay&type=2",
+    "tranCn": "推迟，延期"
+  },
+  {
+    "wordRank": 698,
+    "headWord": "private",
+    "usspeech": "private&type=2",
+    "tranCn": "私人的"
+  },
+  {
+    "wordRank": 699,
+    "headWord": "definition",
+    "usspeech": "definition&type=2",
+    "tranCn": "定义"
+  },
+  {
+    "wordRank": 700,
+    "headWord": "influential",
+    "usspeech": "influential&type=2",
+    "tranCn": "有影响力的"
+  },
+  {
+    "wordRank": 701,
+    "headWord": "recommend",
+    "usspeech": "recommend&type=2",
+    "tranCn": "推荐；劝告；使受欢迎"
+  },
+  {
+    "wordRank": 702,
+    "headWord": "frontier",
+    "usspeech": "frontier&type=2",
+    "tranCn": "边境"
+  },
+  {
+    "wordRank": 703,
+    "headWord": "concern",
+    "usspeech": "concern&type=2",
+    "tranCn": "重要的事情；与…有关，关于"
+  },
+  {
+    "wordRank": 704,
+    "headWord": "organ",
+    "usspeech": "organ&type=2",
+    "tranCn": "器官"
+  },
+  {
+    "wordRank": 705,
+    "headWord": "cite",
+    "usspeech": "cite&type=2",
+    "tranCn": "引用"
+  },
+  {
+    "wordRank": 706,
+    "headWord": "mechanism",
+    "usspeech": "mechanism&type=2",
+    "tranCn": "机制，机能"
+  },
+  {
+    "wordRank": 707,
+    "headWord": "contest",
+    "usspeech": "contest&type=2",
+    "tranCn": "比赛"
+  },
+  {
+    "wordRank": 708,
+    "headWord": "symptom",
+    "usspeech": "symptom&type=2",
+    "tranCn": "症状"
+  },
+  {
+    "wordRank": 709,
+    "headWord": "deadline",
+    "usspeech": "deadline&type=2",
+    "tranCn": "最后期限"
+  },
+  {
+    "wordRank": 710,
+    "headWord": "domination",
+    "usspeech": "domination&type=2",
+    "tranCn": "主导"
+  },
+  {
+    "wordRank": 711,
+    "headWord": "figure",
+    "usspeech": "figure&type=2",
+    "tranCn": "人物；数字"
+  },
+  {
+    "wordRank": 712,
+    "headWord": "imply",
+    "usspeech": "imply&type=2",
+    "tranCn": "暗示；意味；"
+  },
+  {
+    "wordRank": 713,
+    "headWord": "curiosity",
+    "usspeech": "curiosity&type=2",
+    "tranCn": "好奇心"
+  },
+  {
+    "wordRank": 714,
+    "headWord": "induce",
+    "usspeech": "induce&type=2",
+    "tranCn": "引诱"
+  },
+  {
+    "wordRank": 715,
+    "headWord": "acknowledge",
+    "usspeech": "acknowledge&type=2",
+    "tranCn": "承认(…的权威)"
+  },
+  {
+    "wordRank": 716,
+    "headWord": "gym",
+    "usspeech": "gym&type=2",
+    "tranCn": "体育馆，健身房"
+  },
+  {
+    "wordRank": 717,
+    "headWord": "chef",
+    "usspeech": "chef&type=2",
+    "tranCn": "厨师"
+  },
+  {
+    "wordRank": 718,
+    "headWord": "sensible",
+    "usspeech": "sensible&type=2",
+    "tranCn": "明智的"
+  },
+  {
+    "wordRank": 719,
+    "headWord": "outline",
+    "usspeech": "outline&type=2",
+    "tranCn": "梗概，提纲，草稿，要点"
+  },
+  {
+    "wordRank": 720,
+    "headWord": "react",
+    "usspeech": "react&type=2",
+    "tranCn": "对……作出反应"
+  },
+  {
+    "wordRank": 721,
+    "headWord": "committee",
+    "usspeech": "committee&type=2",
+    "tranCn": "委员会"
+  },
+  {
+    "wordRank": 722,
+    "headWord": "civilian",
+    "usspeech": "civilian&type=2",
+    "tranCn": "平民，百姓"
+  },
+  {
+    "wordRank": 723,
+    "headWord": "domestic",
+    "usspeech": "domestic&type=2",
+    "tranCn": "国内的"
+  },
+  {
+    "wordRank": 724,
+    "headWord": "complex",
+    "usspeech": "complex&type=2",
+    "tranCn": "复杂的"
+  },
+  {
+    "wordRank": 725,
+    "headWord": "locate",
+    "usspeech": "locate&type=2",
+    "tranCn": "位于，定位"
+  },
+  {
+    "wordRank": 726,
+    "headWord": "tighten",
+    "usspeech": "tighten&type=2",
+    "tranCn": "使变紧"
+  },
+  {
+    "wordRank": 727,
+    "headWord": "physics",
+    "usspeech": "physics&type=2",
+    "tranCn": "物理，物理学"
+  },
+  {
+    "wordRank": 728,
+    "headWord": "foothold",
+    "usspeech": "foothold&type=2",
+    "tranCn": "立足处（攀登时脚踩的地方）"
+  },
+  {
+    "wordRank": 729,
+    "headWord": "discharge",
+    "usspeech": "discharge&type=2",
+    "tranCn": "释放；排出；批准离开; 命令离开"
+  },
+  {
+    "wordRank": 730,
+    "headWord": "advanced",
+    "usspeech": "advanced&type=2",
+    "tranCn": "高级的"
+  },
+  {
+    "wordRank": 731,
+    "headWord": "complicated",
+    "usspeech": "complicated&type=2",
+    "tranCn": "复杂的，难懂的"
+  },
+  {
+    "wordRank": 732,
+    "headWord": "needy",
+    "usspeech": "needy&type=2",
+    "tranCn": "贫穷的"
+  },
+  {
+    "wordRank": 733,
+    "headWord": "stale",
+    "usspeech": "stale&type=2",
+    "tranCn": "乏味的，没有新意的"
+  },
+  {
+    "wordRank": 734,
+    "headWord": "casual",
+    "usspeech": "casual&type=2",
+    "tranCn": "漫不经心的，随便的；偶然的"
+  },
+  {
+    "wordRank": 735,
+    "headWord": "conform",
+    "usspeech": "conform&type=2",
+    "tranCn": "相一致，遵守"
+  },
+  {
+    "wordRank": 736,
+    "headWord": "recharge",
+    "usspeech": "recharge&type=2",
+    "tranCn": "再充电"
+  },
+  {
+    "wordRank": 737,
+    "headWord": "annually",
+    "usspeech": "annually&type=2",
+    "tranCn": "每年，一年一次"
+  },
+  {
+    "wordRank": 738,
+    "headWord": "frown",
+    "usspeech": "frown&type=2",
+    "tranCn": "皱眉"
+  },
+  {
+    "wordRank": 739,
+    "headWord": "decline",
+    "usspeech": "decline&type=2",
+    "tranCn": "下降，减少；拒绝"
+  },
+  {
+    "wordRank": 740,
+    "headWord": "originate",
+    "usspeech": "originate&type=2",
+    "tranCn": "开始"
+  },
+  {
+    "wordRank": 741,
+    "headWord": "prospect",
+    "usspeech": "prospect&type=2",
+    "tranCn": "前景；前途"
+  },
+  {
+    "wordRank": 742,
+    "headWord": "curious",
+    "usspeech": "curious&type=2",
+    "tranCn": "好奇的"
+  },
+  {
+    "wordRank": 743,
+    "headWord": "incentive",
+    "usspeech": "incentive&type=2",
+    "tranCn": "动机，刺激"
+  },
+  {
+    "wordRank": 744,
+    "headWord": "virus",
+    "usspeech": "virus&type=2",
+    "tranCn": "病毒"
+  },
+  {
+    "wordRank": 745,
+    "headWord": "cultivate",
+    "usspeech": "cultivate&type=2",
+    "tranCn": "培养， 养成"
+  },
+  {
+    "wordRank": 746,
+    "headWord": "potential",
+    "usspeech": "potential&type=2",
+    "tranCn": "潜力；有可能的；潜在的"
+  },
+  {
+    "wordRank": 747,
+    "headWord": "reluctant",
+    "usspeech": "reluctant&type=2",
+    "tranCn": "不愿意的，勉强的"
+  },
+  {
+    "wordRank": 748,
+    "headWord": "miserable",
+    "usspeech": "miserable&type=2",
+    "tranCn": "痛苦的"
+  },
+  {
+    "wordRank": 749,
+    "headWord": "persuasion",
+    "usspeech": "persuasion&type=2",
+    "tranCn": "劝说"
+  },
+  {
+    "wordRank": 750,
+    "headWord": "competitiveness",
+    "usspeech": "competitiveness&type=2",
+    "tranCn": "竞争力"
+  },
+  {
+    "wordRank": 751,
+    "headWord": "restriction",
+    "usspeech": "restriction&type=2",
+    "tranCn": "限制，限定"
+  },
+  {
+    "wordRank": 752,
+    "headWord": "minor",
+    "usspeech": "minor&type=2",
+    "tranCn": "小的"
+  },
+  {
+    "wordRank": 753,
+    "headWord": "grain",
+    "usspeech": "grain&type=2",
+    "tranCn": "谷物，粮食"
+  },
+  {
+    "wordRank": 754,
+    "headWord": "rate",
+    "usspeech": "rate&type=2",
+    "tranCn": "比率，速率"
+  },
+  {
+    "wordRank": 755,
+    "headWord": "radically",
+    "usspeech": "radically&type=2",
+    "tranCn": "完全地，彻底地"
+  },
+  {
+    "wordRank": 756,
+    "headWord": "distinct",
+    "usspeech": "distinct&type=2",
+    "tranCn": "明显的；有区别的"
+  },
+  {
+    "wordRank": 757,
+    "headWord": "equality",
+    "usspeech": "equality&type=2",
+    "tranCn": "平等"
+  },
+  {
+    "wordRank": 758,
+    "headWord": "hardworking",
+    "usspeech": "hardworking&type=2",
+    "tranCn": "苦干的，不辞辛劳的"
+  },
+  {
+    "wordRank": 759,
+    "headWord": "qualification",
+    "usspeech": "qualification&type=2",
+    "tranCn": "资格(证明)，合格证书"
+  },
+  {
+    "wordRank": 760,
+    "headWord": "bacteria",
+    "usspeech": "bacteria&type=2",
+    "tranCn": "细菌"
+  },
+  {
+    "wordRank": 761,
+    "headWord": "corporate",
+    "usspeech": "corporate&type=2",
+    "tranCn": "团体的；法人的"
+  },
+  {
+    "wordRank": 762,
+    "headWord": "undermine",
+    "usspeech": "undermine&type=2",
+    "tranCn": "逐渐削弱; 逐渐动摇"
+  },
+  {
+    "wordRank": 763,
+    "headWord": "selfish",
+    "usspeech": "selfish&type=2",
+    "tranCn": "自私的"
+  },
+  {
+    "wordRank": 764,
+    "headWord": "cater",
+    "usspeech": "cater&type=2",
+    "tranCn": "迎合"
+  },
+  {
+    "wordRank": 765,
+    "headWord": "survival",
+    "usspeech": "survival&type=2",
+    "tranCn": "幸存"
+  },
+  {
+    "wordRank": 766,
+    "headWord": "favor",
+    "usspeech": "favor&type=2",
+    "tranCn": "偏好, 较喜欢"
+  },
+  {
+    "wordRank": 767,
+    "headWord": "conflict",
+    "usspeech": "conflict&type=2",
+    "tranCn": "冲突"
+  },
+  {
+    "wordRank": 768,
+    "headWord": "client",
+    "usspeech": "client&type=2",
+    "tranCn": "客户"
+  },
+  {
+    "wordRank": 769,
+    "headWord": "garage",
+    "usspeech": "garage&type=2",
+    "tranCn": "车库"
+  },
+  {
+    "wordRank": 770,
+    "headWord": "fatigue",
+    "usspeech": "fatigue&type=2",
+    "tranCn": "疲劳，疲乏"
+  },
+  {
+    "wordRank": 771,
+    "headWord": "plant",
+    "usspeech": "plant&type=2",
+    "tranCn": "工厂"
+  },
+  {
+    "wordRank": 772,
+    "headWord": "endanger",
+    "usspeech": "endanger&type=2",
+    "tranCn": "危及，危害，濒临危险"
+  },
+  {
+    "wordRank": 773,
+    "headWord": "operation",
+    "usspeech": "operation&type=2",
+    "tranCn": "手术；行动"
+  },
+  {
+    "wordRank": 774,
+    "headWord": "handle",
+    "usspeech": "handle&type=2",
+    "tranCn": "处理"
+  },
+  {
+    "wordRank": 775,
+    "headWord": "laborious",
+    "usspeech": "laborious&type=2",
+    "tranCn": "费力的"
+  },
+  {
+    "wordRank": 776,
+    "headWord": "passion",
+    "usspeech": "passion&type=2",
+    "tranCn": "热情，激情"
+  },
+  {
+    "wordRank": 777,
+    "headWord": "cooperative",
+    "usspeech": "cooperative&type=2",
+    "tranCn": "合作的"
+  },
+  {
+    "wordRank": 778,
+    "headWord": "inflate",
+    "usspeech": "inflate&type=2",
+    "tranCn": "(使)膨胀"
+  },
+  {
+    "wordRank": 779,
+    "headWord": "resourceful",
+    "usspeech": "resourceful&type=2",
+    "tranCn": "机智的"
+  },
+  {
+    "wordRank": 780,
+    "headWord": "exaggerate",
+    "usspeech": "exaggerate&type=2",
+    "tranCn": "夸张"
+  },
+  {
+    "wordRank": 781,
+    "headWord": "loan",
+    "usspeech": "loan&type=2",
+    "tranCn": "贷款"
+  },
+  {
+    "wordRank": 782,
+    "headWord": "vocabulary",
+    "usspeech": "vocabulary&type=2",
+    "tranCn": "词汇"
+  },
+  {
+    "wordRank": 783,
+    "headWord": "illustrate",
+    "usspeech": "illustrate&type=2",
+    "tranCn": "说明,阐明"
+  },
+  {
+    "wordRank": 784,
+    "headWord": "overflow",
+    "usspeech": "overflow&type=2",
+    "tranCn": "溢出，淹没"
+  },
+  {
+    "wordRank": 785,
+    "headWord": "fantasize",
+    "usspeech": "fantasize&type=2",
+    "tranCn": "想象，幻想"
+  },
+  {
+    "wordRank": 786,
+    "headWord": "amusing",
+    "usspeech": "amusing&type=2",
+    "tranCn": "有趣的，好玩儿的"
+  },
+  {
+    "wordRank": 787,
+    "headWord": "universal",
+    "usspeech": "universal&type=2",
+    "tranCn": "宇宙的，全世界的；普遍的"
+  },
+  {
+    "wordRank": 788,
+    "headWord": "generate",
+    "usspeech": "generate&type=2",
+    "tranCn": "产生"
+  },
+  {
+    "wordRank": 789,
+    "headWord": "schedule",
+    "usspeech": "schedule&type=2",
+    "tranCn": "日程表"
+  },
+  {
+    "wordRank": 790,
+    "headWord": "backslide",
+    "usspeech": "backslide&type=2",
+    "tranCn": "倒退，退步"
+  },
+  {
+    "wordRank": 791,
+    "headWord": "particle",
+    "usspeech": "particle&type=2",
+    "tranCn": "微粒"
+  },
+  {
+    "wordRank": 792,
+    "headWord": "menu",
+    "usspeech": "menu&type=2",
+    "tranCn": "菜单"
+  },
+  {
+    "wordRank": 793,
+    "headWord": "reward",
+    "usspeech": "reward&type=2",
+    "tranCn": "报答，奖赏；报答，奖赏"
+  },
+  {
+    "wordRank": 794,
+    "headWord": "reproduce",
+    "usspeech": "reproduce&type=2",
+    "tranCn": "复制"
+  },
+  {
+    "wordRank": 795,
+    "headWord": "worsen",
+    "usspeech": "worsen&type=2",
+    "tranCn": "（使）变得更坏"
+  },
+  {
+    "wordRank": 796,
+    "headWord": "feedback",
+    "usspeech": "feedback&type=2",
+    "tranCn": "反馈"
+  },
+  {
+    "wordRank": 797,
+    "headWord": "equivalent",
+    "usspeech": "equivalent&type=2",
+    "tranCn": "相等的，相当的"
+  },
+  {
+    "wordRank": 798,
+    "headWord": "resign",
+    "usspeech": "resign&type=2",
+    "tranCn": "辞职"
+  },
+  {
+    "wordRank": 799,
+    "headWord": "motivate",
+    "usspeech": "motivate&type=2",
+    "tranCn": "促动，激发，诱导"
+  },
+  {
+    "wordRank": 800,
+    "headWord": "compel",
+    "usspeech": "compel&type=2",
+    "tranCn": "强迫"
+  },
+  {
+    "wordRank": 801,
+    "headWord": "revise",
+    "usspeech": "revise&type=2",
+    "tranCn": "修订"
+  },
+  {
+    "wordRank": 802,
+    "headWord": "dampen",
+    "usspeech": "dampen&type=2",
+    "tranCn": "抑制"
+  },
+  {
+    "wordRank": 803,
+    "headWord": "prosperity",
+    "usspeech": "prosperity&type=2",
+    "tranCn": "繁荣"
+  },
+  {
+    "wordRank": 804,
+    "headWord": "flow",
+    "usspeech": "flow&type=2",
+    "tranCn": "流动；流动"
+  },
+  {
+    "wordRank": 805,
+    "headWord": "humanity",
+    "usspeech": "humanity&type=2",
+    "tranCn": "人类〔总称〕；人性"
+  },
+  {
+    "wordRank": 806,
+    "headWord": "sideways",
+    "usspeech": "sideways&type=2",
+    "tranCn": "向侧面"
+  },
+  {
+    "wordRank": 807,
+    "headWord": "pursue",
+    "usspeech": "pursue&type=2",
+    "tranCn": "追求"
+  },
+  {
+    "wordRank": 808,
+    "headWord": "innovate",
+    "usspeech": "innovate&type=2",
+    "tranCn": "创新，革新"
+  },
+  {
+    "wordRank": 809,
+    "headWord": "mill",
+    "tranCn": "工厂"
+  },
+  {
+    "wordRank": 810,
+    "headWord": "promotional",
+    "usspeech": "promotional&type=2",
+    "tranCn": "促销的"
+  },
+  {
+    "wordRank": 811,
+    "headWord": "dump",
+    "usspeech": "dump&type=2",
+    "tranCn": "扔下，倾倒；倾销"
+  },
+  {
+    "wordRank": 812,
+    "headWord": "resist",
+    "usspeech": "resist&type=2",
+    "tranCn": "抵抗，抗拒"
+  },
+  {
+    "wordRank": 813,
+    "headWord": "source",
+    "usspeech": "source&type=2",
+    "tranCn": "来源"
+  },
+  {
+    "wordRank": 814,
+    "headWord": "legal",
+    "usspeech": "legal&type=2",
+    "tranCn": "法律的"
+  },
+  {
+    "wordRank": 815,
+    "headWord": "picky",
+    "usspeech": "picky&type=2",
+    "tranCn": "挑剔的"
+  },
+  {
+    "wordRank": 816,
+    "headWord": "steal",
+    "usspeech": "steal&type=2",
+    "tranCn": "偷窃"
+  },
+  {
+    "wordRank": 817,
+    "headWord": "despite",
+    "usspeech": "despite&type=2",
+    "tranCn": "尽管"
+  },
+  {
+    "wordRank": 818,
+    "headWord": "explosion",
+    "usspeech": "explosion&type=2",
+    "tranCn": "爆炸"
+  },
+  {
+    "wordRank": 819,
+    "headWord": "gap",
+    "usspeech": "gap&type=2",
+    "tranCn": "缝隙，缺口；差距"
+  },
+  {
+    "wordRank": 820,
+    "headWord": "relevant",
+    "usspeech": "relevant&type=2",
+    "tranCn": "有关的，切题的"
+  },
+  {
+    "wordRank": 821,
+    "headWord": "ignore",
+    "usspeech": "ignore&type=2",
+    "tranCn": "忽视，不顾"
+  },
+  {
+    "wordRank": 822,
+    "headWord": "complete",
+    "usspeech": "complete&type=2",
+    "tranCn": "完成；完整的，彻底的"
+  },
+  {
+    "wordRank": 823,
+    "headWord": "sufficient",
+    "usspeech": "sufficient&type=2",
+    "tranCn": "足够的"
+  },
+  {
+    "wordRank": 824,
+    "headWord": "switch",
+    "usspeech": "switch&type=2",
+    "tranCn": "转变，改变"
+  },
+  {
+    "wordRank": 825,
+    "headWord": "request",
+    "usspeech": "request&type=2",
+    "tranCn": "要求"
+  },
+  {
+    "wordRank": 826,
+    "headWord": "stereotype",
+    "usspeech": "stereotype&type=2",
+    "tranCn": "老套，固定模式"
+  },
+  {
+    "wordRank": 827,
+    "headWord": "couple",
+    "usspeech": "couple&type=2",
+    "tranCn": "夫妻，情侣"
+  },
+  {
+    "wordRank": 828,
+    "headWord": "honesty",
+    "usspeech": "honesty&type=2",
+    "tranCn": "诚实"
+  },
+  {
+    "wordRank": 829,
+    "headWord": "transportation",
+    "usspeech": "transportation&type=2",
+    "tranCn": "运输"
+  },
+  {
+    "wordRank": 830,
+    "headWord": "physical",
+    "usspeech": "physical&type=2",
+    "tranCn": "身体上的"
+  },
+  {
+    "wordRank": 831,
+    "headWord": "screen",
+    "usspeech": "screen&type=2",
+    "tranCn": "筛查"
+  },
+  {
+    "wordRank": 832,
+    "headWord": "divine",
+    "usspeech": "divine&type=2",
+    "tranCn": "神圣的"
+  },
+  {
+    "wordRank": 833,
+    "headWord": "guideline",
+    "usspeech": "guideline&type=2",
+    "tranCn": "指导原则"
+  },
+  {
+    "wordRank": 834,
+    "headWord": "revolution",
+    "usspeech": "revolution&type=2",
+    "tranCn": "革命"
+  },
+  {
+    "wordRank": 835,
+    "headWord": "interruption",
+    "usspeech": "interruption&type=2",
+    "tranCn": "打扰；中断"
+  },
+  {
+    "wordRank": 836,
+    "headWord": "dishwasher",
+    "usspeech": "dishwasher&type=2",
+    "tranCn": "洗碗机"
+  },
+  {
+    "wordRank": 837,
+    "headWord": "promising",
+    "usspeech": "promising&type=2",
+    "tranCn": "有希望的，有前途的"
+  },
+  {
+    "wordRank": 838,
+    "headWord": "vary",
+    "usspeech": "vary&type=2",
+    "tranCn": "不同；变化"
+  },
+  {
+    "wordRank": 839,
+    "headWord": "permanent",
+    "usspeech": "permanent&type=2",
+    "tranCn": "永久的"
+  },
+  {
+    "wordRank": 840,
+    "headWord": "manufacture",
+    "usspeech": "manufacture&type=2",
+    "tranCn": "制造，生产"
+  },
+  {
+    "wordRank": 841,
+    "headWord": "fussy",
+    "usspeech": "fussy&type=2",
+    "tranCn": "爱挑剔的；"
+  },
+  {
+    "wordRank": 842,
+    "headWord": "dictate",
+    "usspeech": "dictate&type=2",
+    "tranCn": "命令，规定；命令，规定"
+  },
+  {
+    "wordRank": 843,
+    "headWord": "professional",
+    "usspeech": "professional&type=2",
+    "tranCn": "专业的"
+  },
+  {
+    "wordRank": 844,
+    "headWord": "prosper",
+    "usspeech": "prosper&type=2",
+    "tranCn": "繁荣"
+  },
+  {
+    "wordRank": 845,
+    "headWord": "exchange",
+    "usspeech": "exchange&type=2",
+    "tranCn": "交换，交流；交换，交流"
+  },
+  {
+    "wordRank": 846,
+    "headWord": "concentration",
+    "usspeech": "concentration&type=2",
+    "tranCn": "集中"
+  },
+  {
+    "wordRank": 847,
+    "headWord": "gesture",
+    "usspeech": "gesture&type=2",
+    "tranCn": "手势，姿势"
+  },
+  {
+    "wordRank": 848,
+    "headWord": "deliberate",
+    "usspeech": "deliberate&type=2",
+    "tranCn": "故意的"
+  },
+  {
+    "wordRank": 849,
+    "headWord": "contribution",
+    "usspeech": "contribution&type=2",
+    "tranCn": "贡献；捐款"
+  },
+  {
+    "wordRank": 850,
+    "headWord": "bless",
+    "usspeech": "bless&type=2",
+    "tranCn": "保佑，祝福"
+  },
+  {
+    "wordRank": 851,
+    "headWord": "detective",
+    "usspeech": "detective&type=2",
+    "tranCn": "侦探"
+  },
+  {
+    "wordRank": 852,
+    "headWord": "evident",
+    "usspeech": "evident&type=2",
+    "tranCn": "明显的"
+  },
+  {
+    "wordRank": 853,
+    "headWord": "retreat",
+    "usspeech": "retreat&type=2",
+    "tranCn": "退避，后退；撤退"
+  },
+  {
+    "wordRank": 854,
+    "headWord": "responsible",
+    "usspeech": "responsible&type=2",
+    "tranCn": "负责的，有责任的"
+  },
+  {
+    "wordRank": 855,
+    "headWord": "identity",
+    "usspeech": "identity&type=2",
+    "tranCn": "身份"
+  },
+  {
+    "wordRank": 856,
+    "headWord": "statistics",
+    "usspeech": "statistics&type=2",
+    "tranCn": "统计学；数据"
+  },
+  {
+    "wordRank": 857,
+    "headWord": "appreciate",
+    "usspeech": "appreciate&type=2",
+    "tranCn": "感激；欣赏"
+  },
+  {
+    "wordRank": 858,
+    "headWord": "insult",
+    "usspeech": "insult&type=2",
+    "tranCn": "侮辱"
+  },
+  {
+    "wordRank": 859,
+    "headWord": "neglect",
+    "usspeech": "neglect&type=2",
+    "tranCn": "疏忽；忽视"
+  },
+  {
+    "wordRank": 860,
+    "headWord": "primarily",
+    "usspeech": "primarily&type=2",
+    "tranCn": "主要地，首先"
+  },
+  {
+    "wordRank": 861,
+    "headWord": "long",
+    "usspeech": "long&type=2",
+    "tranCn": "渴望"
+  },
+  {
+    "wordRank": 862,
+    "headWord": "incline",
+    "usspeech": "incline&type=2",
+    "tranCn": "倾向于"
+  },
+  {
+    "wordRank": 863,
+    "headWord": "asset",
+    "usspeech": "asset&type=2",
+    "tranCn": "有价值的人(或物)资产"
+  },
+  {
+    "wordRank": 864,
+    "headWord": "overtake",
+    "usspeech": "overtake&type=2",
+    "tranCn": "超车"
+  },
+  {
+    "wordRank": 865,
+    "headWord": "extension",
+    "usspeech": "extension&type=2",
+    "tranCn": "分机"
+  },
+  {
+    "wordRank": 866,
+    "headWord": "engine",
+    "usspeech": "engine&type=2",
+    "tranCn": "引擎，发动机"
+  },
+  {
+    "wordRank": 867,
+    "headWord": "emphasize",
+    "usspeech": "emphasize&type=2",
+    "tranCn": "强调"
+  },
+  {
+    "wordRank": 868,
+    "headWord": "genuine",
+    "usspeech": "genuine&type=2",
+    "tranCn": "真正的"
+  },
+  {
+    "wordRank": 869,
+    "headWord": "fascination",
+    "usspeech": "fascination&type=2",
+    "tranCn": "魅力；入迷"
+  },
+  {
+    "wordRank": 870,
+    "headWord": "lodge",
+    "usspeech": "lodge&type=2",
+    "tranCn": "住宿，暂住"
+  },
+  {
+    "wordRank": 871,
+    "headWord": "cheat",
+    "usspeech": "cheat&type=2",
+    "tranCn": "欺骗, 作弊"
+  },
+  {
+    "wordRank": 872,
+    "headWord": "security",
+    "usspeech": "security&type=2",
+    "tranCn": "安全，安保"
+  },
+  {
+    "wordRank": 873,
+    "headWord": "painful",
+    "usspeech": "painful&type=2",
+    "tranCn": "痛苦的，疼痛的，令人不快的"
+  },
+  {
+    "wordRank": 874,
+    "headWord": "emerge",
+    "usspeech": "emerge&type=2",
+    "tranCn": "出现"
+  },
+  {
+    "wordRank": 875,
+    "headWord": "instance",
+    "usspeech": "instance&type=2",
+    "tranCn": "情况，例子"
+  },
+  {
+    "wordRank": 876,
+    "headWord": "steep",
+    "usspeech": "steep&type=2",
+    "tranCn": "陡峭的；急剧升/降的"
+  },
+  {
+    "wordRank": 877,
+    "headWord": "rigorous",
+    "usspeech": "rigorous&type=2",
+    "tranCn": "严格的"
+  },
+  {
+    "wordRank": 878,
+    "headWord": "persuade",
+    "usspeech": "persuade&type=2",
+    "tranCn": "说服"
+  },
+  {
+    "wordRank": 879,
+    "headWord": "procedure",
+    "usspeech": "procedure&type=2",
+    "tranCn": "程序"
+  },
+  {
+    "wordRank": 880,
+    "headWord": "signature",
+    "usspeech": "signature&type=2",
+    "tranCn": "签名"
+  },
+  {
+    "wordRank": 881,
+    "headWord": "surpass",
+    "usspeech": "surpass&type=2",
+    "tranCn": "超过"
+  },
+  {
+    "wordRank": 882,
+    "headWord": "campaign",
+    "usspeech": "campaign&type=2",
+    "tranCn": "活动"
+  },
+  {
+    "wordRank": 883,
+    "headWord": "advance",
+    "usspeech": "advance&type=2",
+    "tranCn": "提前；前进"
+  },
+  {
+    "wordRank": 884,
+    "headWord": "charity",
+    "usspeech": "charity&type=2",
+    "tranCn": "慈善机构"
+  },
+  {
+    "wordRank": 885,
+    "headWord": "average",
+    "usspeech": "average&type=2",
+    "tranCn": "平常的"
+  },
+  {
+    "wordRank": 886,
+    "headWord": "indispensable",
+    "usspeech": "indispensable&type=2",
+    "tranCn": "必不可少的"
+  },
+  {
+    "wordRank": 887,
+    "headWord": "irrationally",
+    "tranCn": "不合理地，无理性地"
+  },
+  {
+    "wordRank": 888,
+    "headWord": "accompany",
+    "usspeech": "accompany&type=2",
+    "tranCn": "陪伴"
+  },
+  {
+    "wordRank": 889,
+    "headWord": "aviation",
+    "usspeech": "aviation&type=2",
+    "tranCn": "航空"
+  },
+  {
+    "wordRank": 890,
+    "headWord": "distress",
+    "usspeech": "distress&type=2",
+    "tranCn": "使痛苦，悲痛"
+  },
+  {
+    "wordRank": 891,
+    "headWord": "invariably",
+    "usspeech": "invariably&type=2",
+    "tranCn": "不变地，一直"
+  },
+  {
+    "wordRank": 892,
+    "headWord": "invest",
+    "usspeech": "invest&type=2",
+    "tranCn": "投资"
+  },
+  {
+    "wordRank": 893,
+    "headWord": "approximately",
+    "usspeech": "approximately&type=2",
+    "tranCn": "大约"
+  },
+  {
+    "wordRank": 894,
+    "headWord": "conservation",
+    "usspeech": "conservation&type=2",
+    "tranCn": "保护，保存"
+  },
+  {
+    "wordRank": 895,
+    "headWord": "ease",
+    "usspeech": "ease&type=2",
+    "tranCn": "轻松，舒适"
+  },
+  {
+    "wordRank": 896,
+    "headWord": "extracurricular",
+    "usspeech": "extracurricular&type=2",
+    "tranCn": "课外的"
+  },
+  {
+    "wordRank": 897,
+    "headWord": "undoubtedly",
+    "usspeech": "undoubtedly&type=2",
+    "tranCn": "无疑"
+  },
+  {
+    "wordRank": 898,
+    "headWord": "excellent",
+    "usspeech": "excellent&type=2",
+    "tranCn": "卓越的，杰出的，极好的"
+  },
+  {
+    "wordRank": 899,
+    "headWord": "investigate",
+    "usspeech": "investigate&type=2",
+    "tranCn": "调查"
+  },
+  {
+    "wordRank": 900,
+    "headWord": "judgement",
+    "usspeech": "judgement&type=2",
+    "tranCn": "判断，决定"
+  },
+  {
+    "wordRank": 901,
+    "headWord": "struggle",
+    "usspeech": "struggle&type=2",
+    "tranCn": "搏斗"
+  },
+  {
+    "wordRank": 902,
+    "headWord": "prohibitively",
+    "tranCn": "过分地，非常地"
+  },
+  {
+    "wordRank": 903,
+    "headWord": "military",
+    "usspeech": "military&type=2",
+    "tranCn": "军队的，军事的"
+  },
+  {
+    "wordRank": 904,
+    "headWord": "consequently",
+    "usspeech": "consequently&type=2",
+    "tranCn": "结果"
+  },
+  {
+    "wordRank": 905,
+    "headWord": "suffer",
+    "usspeech": "suffer&type=2",
+    "tranCn": "受苦；遭受（痛苦）"
+  },
+  {
+    "wordRank": 906,
+    "headWord": "visible",
+    "usspeech": "visible&type=2",
+    "tranCn": "看得见的"
+  },
+  {
+    "wordRank": 907,
+    "headWord": "swift",
+    "usspeech": "swift&type=2",
+    "tranCn": "迅速的"
+  },
+  {
+    "wordRank": 908,
+    "headWord": "battle",
+    "usspeech": "battle&type=2",
+    "tranCn": "战争，战役"
+  },
+  {
+    "wordRank": 909,
+    "headWord": "liability",
+    "usspeech": "liability&type=2",
+    "tranCn": "责任"
+  },
+  {
+    "wordRank": 910,
+    "headWord": "resistant",
+    "usspeech": "resistant&type=2",
+    "tranCn": "抵抗的；抵制的"
+  },
+  {
+    "wordRank": 911,
+    "headWord": "nutritious",
+    "usspeech": "nutritious&type=2",
+    "tranCn": "营养的"
+  },
+  {
+    "wordRank": 912,
+    "headWord": "constantly",
+    "usspeech": "constantly&type=2",
+    "tranCn": "不断地，时常地"
+  },
+  {
+    "wordRank": 913,
+    "headWord": "familiar",
+    "usspeech": "familiar&type=2",
+    "tranCn": "熟悉的"
+  },
+  {
+    "wordRank": 914,
+    "headWord": "terribly",
+    "usspeech": "terribly&type=2",
+    "tranCn": "可怕地，非常"
+  },
+  {
+    "wordRank": 915,
+    "headWord": "restore",
+    "usspeech": "restore&type=2",
+    "tranCn": "修复"
+  },
+  {
+    "wordRank": 916,
+    "headWord": "refine",
+    "usspeech": "refine&type=2",
+    "tranCn": "改善；精炼"
+  },
+  {
+    "wordRank": 917,
+    "headWord": "inspire",
+    "usspeech": "inspire&type=2",
+    "tranCn": "激发；鼓舞；使产生灵感"
+  },
+  {
+    "wordRank": 918,
+    "headWord": "comply",
+    "usspeech": "comply&type=2",
+    "tranCn": "遵从"
+  },
+  {
+    "wordRank": 919,
+    "headWord": "justice",
+    "usspeech": "justice&type=2",
+    "tranCn": "公正"
+  },
+  {
+    "wordRank": 920,
+    "headWord": "district",
+    "usspeech": "district&type=2",
+    "tranCn": "区"
+  },
+  {
+    "wordRank": 921,
+    "headWord": "installation",
+    "usspeech": "installation&type=2",
+    "tranCn": "安装；就职；就职仪式"
+  },
+  {
+    "wordRank": 922,
+    "headWord": "marvelous",
+    "usspeech": "marvelous&type=2",
+    "tranCn": "引起惊异的"
+  },
+  {
+    "wordRank": 923,
+    "headWord": "provoke",
+    "usspeech": "provoke&type=2",
+    "tranCn": "激起，挑起"
+  },
+  {
+    "wordRank": 924,
+    "headWord": "lobby",
+    "usspeech": "lobby&type=2",
+    "tranCn": "大堂；游说"
+  },
+  {
+    "wordRank": 925,
+    "headWord": "interview",
+    "usspeech": "interview&type=2",
+    "tranCn": "面谈（试）；会见；；采访 ；面试"
+  },
+  {
+    "wordRank": 926,
+    "headWord": "release",
+    "usspeech": "release&type=2",
+    "tranCn": "释放；发布"
+  },
+  {
+    "wordRank": 927,
+    "headWord": "explore",
+    "usspeech": "explore&type=2",
+    "tranCn": "探索"
+  },
+  {
+    "wordRank": 928,
+    "headWord": "profound",
+    "usspeech": "profound&type=2",
+    "tranCn": "深厚的"
+  },
+  {
+    "wordRank": 929,
+    "headWord": "exploit",
+    "usspeech": "exploit&type=2",
+    "tranCn": "开采"
+  },
+  {
+    "wordRank": 930,
+    "headWord": "startup",
+    "usspeech": "startup&type=2",
+    "tranCn": "启动，开办"
+  },
+  {
+    "wordRank": 931,
+    "headWord": "constructive",
+    "usspeech": "constructive&type=2",
+    "tranCn": "建设的，建设性的"
+  },
+  {
+    "wordRank": 932,
+    "headWord": "unbearable",
+    "usspeech": "unbearable&type=2",
+    "tranCn": "无法忍受的"
+  },
+  {
+    "wordRank": 933,
+    "headWord": "laundry",
+    "usspeech": "laundry&type=2",
+    "tranCn": "要洗的衣服；刚洗过的衣物；洗衣房"
+  },
+  {
+    "wordRank": 934,
+    "headWord": "seize",
+    "usspeech": "seize&type=2",
+    "tranCn": "抓住"
+  },
+  {
+    "wordRank": 935,
+    "headWord": "poison",
+    "usspeech": "poison&type=2",
+    "tranCn": "使中毒"
+  },
+  {
+    "wordRank": 936,
+    "headWord": "bakery",
+    "usspeech": "bakery&type=2",
+    "tranCn": "面包店"
+  },
+  {
+    "wordRank": 937,
+    "headWord": "tent",
+    "usspeech": "tent&type=2",
+    "tranCn": "帐篷"
+  },
+  {
+    "wordRank": 938,
+    "headWord": "wedding",
+    "usspeech": "wedding&type=2",
+    "tranCn": "婚礼"
+  },
+  {
+    "wordRank": 939,
+    "headWord": "fair",
+    "usspeech": "fair&type=2",
+    "tranCn": "集市"
+  },
+  {
+    "wordRank": 940,
+    "headWord": "geographic",
+    "usspeech": "geographic&type=2",
+    "tranCn": "地理的"
+  },
+  {
+    "wordRank": 941,
+    "headWord": "comprehensive",
+    "usspeech": "comprehensive&type=2",
+    "tranCn": "综合的，全面的"
+  },
+  {
+    "wordRank": 942,
+    "headWord": "riot",
+    "usspeech": "riot&type=2",
+    "tranCn": "暴乱"
+  },
+  {
+    "wordRank": 943,
+    "headWord": "conspicuous",
+    "usspeech": "conspicuous&type=2",
+    "tranCn": "显著地"
+  },
+  {
+    "wordRank": 944,
+    "headWord": "block",
+    "usspeech": "block&type=2",
+    "tranCn": "阻碍；街区"
+  },
+  {
+    "wordRank": 945,
+    "headWord": "acute",
+    "usspeech": "acute&type=2",
+    "tranCn": "敏锐的"
+  },
+  {
+    "wordRank": 946,
+    "headWord": "endure",
+    "usspeech": "endure&type=2",
+    "tranCn": "忍耐；容忍"
+  },
+  {
+    "wordRank": 947,
+    "headWord": "assembly",
+    "usspeech": "assembly&type=2",
+    "tranCn": "装配"
+  },
+  {
+    "wordRank": 948,
+    "headWord": "opponent",
+    "usspeech": "opponent&type=2",
+    "tranCn": "对手"
+  },
+  {
+    "wordRank": 949,
+    "headWord": "confront",
+    "usspeech": "confront&type=2",
+    "tranCn": "面对"
+  },
+  {
+    "wordRank": 950,
+    "headWord": "stir",
+    "usspeech": "stir&type=2",
+    "tranCn": "搅动；煽动，激起"
+  },
+  {
+    "wordRank": 951,
+    "headWord": "rocket",
+    "usspeech": "rocket&type=2",
+    "tranCn": "火箭；猛增"
+  },
+  {
+    "wordRank": 952,
+    "headWord": "attribute",
+    "usspeech": "attribute&type=2",
+    "tranCn": "归因于"
+  },
+  {
+    "wordRank": 953,
+    "headWord": "sentence",
+    "usspeech": "sentence&type=2",
+    "tranCn": "判决；判决"
+  },
+  {
+    "wordRank": 954,
+    "headWord": "tempting",
+    "usspeech": "tempting&type=2",
+    "tranCn": "诱人的，吸引人的"
+  },
+  {
+    "wordRank": 955,
+    "headWord": "commitment",
+    "usspeech": "commitment&type=2",
+    "tranCn": "承诺，保证"
+  },
+  {
+    "wordRank": 956,
+    "headWord": "feasible",
+    "usspeech": "feasible&type=2",
+    "tranCn": "可行的；可能的；可用的"
+  },
+  {
+    "wordRank": 957,
+    "headWord": "outcome",
+    "usspeech": "outcome&type=2",
+    "tranCn": "结果"
+  },
+  {
+    "wordRank": 958,
+    "headWord": "diligent",
+    "usspeech": "diligent&type=2",
+    "tranCn": "勤奋的"
+  },
+  {
+    "wordRank": 959,
+    "headWord": "deprive",
+    "usspeech": "deprive&type=2",
+    "tranCn": "剥夺，夺去，使丧失"
+  },
+  {
+    "wordRank": 960,
+    "headWord": "grid",
+    "usspeech": "grid&type=2",
+    "tranCn": "输电网"
+  },
+  {
+    "wordRank": 961,
+    "headWord": "distribute",
+    "usspeech": "distribute&type=2",
+    "tranCn": "分发"
+  },
+  {
+    "wordRank": 962,
+    "headWord": "destruction",
+    "usspeech": "destruction&type=2",
+    "tranCn": "破坏"
+  },
+  {
+    "wordRank": 963,
+    "headWord": "divide",
+    "usspeech": "divide&type=2",
+    "tranCn": "分开"
+  },
+  {
+    "wordRank": 964,
+    "headWord": "highlight",
+    "usspeech": "highlight&type=2",
+    "tranCn": "突出；强调；突出的部分"
+  },
+  {
+    "wordRank": 965,
+    "headWord": "justify",
+    "usspeech": "justify&type=2",
+    "tranCn": "证明……正当"
+  },
+  {
+    "wordRank": 966,
+    "headWord": "announce",
+    "usspeech": "announce&type=2",
+    "tranCn": "宣布，声称"
+  },
+  {
+    "wordRank": 967,
+    "headWord": "proposal",
+    "usspeech": "proposal&type=2",
+    "tranCn": "提议"
+  },
+  {
+    "wordRank": 968,
+    "headWord": "advisory",
+    "usspeech": "advisory&type=2",
+    "tranCn": "报告，警告"
+  },
+  {
+    "wordRank": 969,
+    "headWord": "mystery",
+    "usspeech": "mystery&type=2",
+    "tranCn": "迷，神秘的事物"
+  },
+  {
+    "wordRank": 970,
+    "headWord": "punctual",
+    "usspeech": "punctual&type=2",
+    "tranCn": "准时的"
+  },
+  {
+    "wordRank": 971,
+    "headWord": "derive",
+    "usspeech": "derive&type=2",
+    "tranCn": "得到，导出"
+  },
+  {
+    "wordRank": 972,
+    "headWord": "harmony",
+    "usspeech": "harmony&type=2",
+    "tranCn": "和谐"
+  },
+  {
+    "wordRank": 973,
+    "headWord": "unwilling",
+    "usspeech": "unwilling&type=2",
+    "tranCn": "不愿意的"
+  },
+  {
+    "wordRank": 974,
+    "headWord": "view",
+    "usspeech": "view&type=2",
+    "tranCn": "看待"
+  },
+  {
+    "wordRank": 975,
+    "headWord": "financial",
+    "usspeech": "financial&type=2",
+    "tranCn": "财政的，经济的"
+  },
+  {
+    "wordRank": 976,
+    "headWord": "priority",
+    "usspeech": "priority&type=2",
+    "tranCn": "优先，优先权"
+  },
+  {
+    "wordRank": 977,
+    "headWord": "impermanent",
+    "usspeech": "impermanent&type=2",
+    "tranCn": "非永久（性）的；不持久的，暂时的"
+  },
+  {
+    "wordRank": 978,
+    "headWord": "symbolize",
+    "usspeech": "symbolize&type=2",
+    "tranCn": "象征"
+  },
+  {
+    "wordRank": 979,
+    "headWord": "bankrupt",
+    "usspeech": "bankrupt&type=2",
+    "tranCn": "破产的，倒闭的"
+  },
+  {
+    "wordRank": 980,
+    "headWord": "intake",
+    "usspeech": "intake&type=2",
+    "tranCn": "摄入"
+  },
+  {
+    "wordRank": 981,
+    "headWord": "addiction",
+    "usspeech": "addiction&type=2",
+    "tranCn": "上瘾"
+  },
+  {
+    "wordRank": 982,
+    "headWord": "productive",
+    "usspeech": "productive&type=2",
+    "tranCn": "富有成效的"
+  },
+  {
+    "wordRank": 983,
+    "headWord": "admire",
+    "usspeech": "admire&type=2",
+    "tranCn": "钦佩，称赞"
+  },
+  {
+    "wordRank": 984,
+    "headWord": "reflect",
+    "usspeech": "reflect&type=2",
+    "tranCn": "反映"
+  },
+  {
+    "wordRank": 985,
+    "headWord": "underline",
+    "usspeech": "underline&type=2",
+    "tranCn": "强调"
+  },
+  {
+    "wordRank": 986,
+    "headWord": "representative",
+    "usspeech": "representative&type=2",
+    "tranCn": "代表"
+  },
+  {
+    "wordRank": 987,
+    "headWord": "blame",
+    "usspeech": "blame&type=2",
+    "tranCn": "指责，责怪"
+  },
+  {
+    "wordRank": 988,
+    "headWord": "retrain",
+    "tranCn": "再教育；再训练"
+  },
+  {
+    "wordRank": 989,
+    "headWord": "tasteless",
+    "usspeech": "tasteless&type=2",
+    "tranCn": "无味的"
+  },
+  {
+    "wordRank": 990,
+    "headWord": "excessive",
+    "usspeech": "excessive&type=2",
+    "tranCn": "过度的"
+  },
+  {
+    "wordRank": 991,
+    "headWord": "dishonest",
+    "usspeech": "dishonest&type=2",
+    "tranCn": "不诚实的"
+  },
+  {
+    "wordRank": 992,
+    "headWord": "caution",
+    "usspeech": "caution&type=2",
+    "tranCn": "小心，谨慎；警告，告诫"
+  },
+  {
+    "wordRank": 993,
+    "headWord": "glorious",
+    "usspeech": "glorious&type=2",
+    "tranCn": "辉煌的"
+  },
+  {
+    "wordRank": 994,
+    "headWord": "pointless",
+    "usspeech": "pointless&type=2",
+    "tranCn": "无意义的"
+  },
+  {
+    "wordRank": 995,
+    "headWord": "significant",
+    "usspeech": "significant&type=2",
+    "tranCn": "重要的"
+  },
+  {
+    "wordRank": 996,
+    "headWord": "mutual",
+    "usspeech": "mutual&type=2",
+    "tranCn": "相互的"
+  },
+  {
+    "wordRank": 997,
+    "headWord": "temptation",
+    "usspeech": "temptation&type=2",
+    "tranCn": "诱惑，引诱"
+  },
+  {
+    "wordRank": 998,
+    "headWord": "passive",
+    "usspeech": "passive&type=2",
+    "tranCn": "被动的"
+  },
+  {
+    "wordRank": 999,
+    "headWord": "evolve",
+    "usspeech": "evolve&type=2",
+    "tranCn": "使发展"
+  },
+  {
+    "wordRank": 1000,
+    "headWord": "treasure",
+    "usspeech": "treasure&type=2",
+    "tranCn": "珍爱"
+  },
+  {
+    "wordRank": 1001,
+    "headWord": "shock",
+    "usspeech": "shock&type=2",
+    "tranCn": "感到震惊"
+  },
+  {
+    "wordRank": 1002,
+    "headWord": "disservice",
+    "usspeech": "disservice&type=2",
+    "tranCn": "伤害，帮倒忙"
+  },
+  {
+    "wordRank": 1003,
+    "headWord": "ambitious",
+    "usspeech": "ambitious&type=2",
+    "tranCn": "有雄心的，野心勃勃的"
+  },
+  {
+    "wordRank": 1004,
+    "headWord": "fancy",
+    "usspeech": "fancy&type=2",
+    "tranCn": "华丽的；别致的"
+  },
+  {
+    "wordRank": 1005,
+    "headWord": "accumulate",
+    "usspeech": "accumulate&type=2",
+    "tranCn": "积累，增加"
+  },
+  {
+    "wordRank": 1006,
+    "headWord": "fuss",
+    "usspeech": "fuss&type=2",
+    "tranCn": "大惊小怪"
+  },
+  {
+    "wordRank": 1007,
+    "headWord": "ultimately",
+    "usspeech": "ultimately&type=2",
+    "tranCn": "最后，最终"
+  },
+  {
+    "wordRank": 1008,
+    "headWord": "showmanship",
+    "usspeech": "showmanship&type=2",
+    "tranCn": "主持演出的技巧"
+  },
+  {
+    "wordRank": 1009,
+    "headWord": "cancel",
+    "usspeech": "cancel&type=2",
+    "tranCn": "取消"
+  },
+  {
+    "wordRank": 1010,
+    "headWord": "regulate",
+    "usspeech": "regulate&type=2",
+    "tranCn": "管理"
+  },
+  {
+    "wordRank": 1011,
+    "headWord": "peer",
+    "usspeech": "peer&type=2",
+    "tranCn": "同龄人"
+  },
+  {
+    "wordRank": 1012,
+    "headWord": "calculate",
+    "usspeech": "calculate&type=2",
+    "tranCn": "计算"
+  },
+  {
+    "wordRank": 1013,
+    "headWord": "virtually",
+    "usspeech": "virtually&type=2",
+    "tranCn": "几乎，差不多"
+  },
+  {
+    "wordRank": 1014,
+    "headWord": "accustom",
+    "usspeech": "accustom&type=2",
+    "tranCn": "使习惯"
+  },
+  {
+    "wordRank": 1015,
+    "headWord": "retailer",
+    "usspeech": "retailer&type=2",
+    "tranCn": "零售商"
+  },
+  {
+    "wordRank": 1016,
+    "headWord": "programmer",
+    "usspeech": "programmer&type=2",
+    "tranCn": "程序设计员"
+  },
+  {
+    "wordRank": 1017,
+    "headWord": "advice",
+    "usspeech": "advice&type=2",
+    "tranCn": "建议"
+  },
+  {
+    "wordRank": 1018,
+    "headWord": "admiration",
+    "usspeech": "admiration&type=2",
+    "tranCn": "钦佩，称赞"
+  },
+  {
+    "wordRank": 1019,
+    "headWord": "courageous",
+    "usspeech": "courageous&type=2",
+    "tranCn": "有勇气的"
+  },
+  {
+    "wordRank": 1020,
+    "headWord": "respectful",
+    "usspeech": "respectful&type=2",
+    "tranCn": "有礼貌的，尊重的"
+  },
+  {
+    "wordRank": 1021,
+    "headWord": "makeup",
+    "usspeech": "makeup&type=2",
+    "tranCn": "化妆品"
+  },
+  {
+    "wordRank": 1022,
+    "headWord": "reservation",
+    "usspeech": "reservation&type=2",
+    "tranCn": "预定"
+  },
+  {
+    "wordRank": 1023,
+    "headWord": "apply",
+    "usspeech": "apply&type=2",
+    "tranCn": "申请；应用"
+  },
+  {
+    "wordRank": 1024,
+    "headWord": "demonstrate",
+    "usspeech": "demonstrate&type=2",
+    "tranCn": "证明；展示"
+  },
+  {
+    "wordRank": 1025,
+    "headWord": "generation",
+    "usspeech": "generation&type=2",
+    "tranCn": "一代人；产生"
+  },
+  {
+    "wordRank": 1026,
+    "headWord": "chat",
+    "usspeech": "chat&type=2",
+    "tranCn": "聊天"
+  },
+  {
+    "wordRank": 1027,
+    "headWord": "ancient",
+    "usspeech": "ancient&type=2",
+    "tranCn": "古代的"
+  },
+  {
+    "wordRank": 1028,
+    "headWord": "evil",
+    "usspeech": "evil&type=2",
+    "tranCn": "邪恶，罪恶"
+  },
+  {
+    "wordRank": 1029,
+    "headWord": "indifferent",
+    "usspeech": "indifferent&type=2",
+    "tranCn": "冷漠的"
+  },
+  {
+    "wordRank": 1030,
+    "headWord": "namely",
+    "usspeech": "namely&type=2",
+    "tranCn": "即，也就是"
+  },
+  {
+    "wordRank": 1031,
+    "headWord": "effect",
+    "usspeech": "effect&type=2",
+    "tranCn": "影响"
+  },
+  {
+    "wordRank": 1032,
+    "headWord": "devote",
+    "usspeech": "devote&type=2",
+    "tranCn": "奉献，致力于"
+  },
+  {
+    "wordRank": 1033,
+    "headWord": "appointment",
+    "usspeech": "appointment&type=2",
+    "tranCn": "约会"
+  },
+  {
+    "wordRank": 1034,
+    "headWord": "appoint",
+    "usspeech": "appoint&type=2",
+    "tranCn": "任命，委派；约定，确定，指定"
+  },
+  {
+    "wordRank": 1035,
+    "headWord": "resemble",
+    "usspeech": "resemble&type=2",
+    "tranCn": "像，相似"
+  },
+  {
+    "wordRank": 1036,
+    "headWord": "assemble",
+    "usspeech": "assemble&type=2",
+    "tranCn": "集合；组装；集合"
+  },
+  {
+    "wordRank": 1037,
+    "headWord": "expressiveness",
+    "tranCn": "表达"
+  },
+  {
+    "wordRank": 1038,
+    "headWord": "visibility",
+    "usspeech": "visibility&type=2",
+    "tranCn": "能见度"
+  },
+  {
+    "wordRank": 1039,
+    "headWord": "distracted",
+    "usspeech": "distracted&type=2",
+    "tranCn": "分心的"
+  },
+  {
+    "wordRank": 1040,
+    "headWord": "debt",
+    "usspeech": "debt&type=2",
+    "tranCn": "债务"
+  },
+  {
+    "wordRank": 1041,
+    "headWord": "substitute",
+    "usspeech": "substitute&type=2",
+    "tranCn": "代替者；代替"
+  },
+  {
+    "wordRank": 1042,
+    "headWord": "insecure",
+    "usspeech": "insecure&type=2",
+    "tranCn": "不安全的"
+  },
+  {
+    "wordRank": 1043,
+    "headWord": "chap",
+    "usspeech": "chap&type=2",
+    "tranCn": "小伙子，小家伙，家伙"
+  },
+  {
+    "wordRank": 1044,
+    "headWord": "selective",
+    "usspeech": "selective&type=2",
+    "tranCn": "选择的,精选的"
+  },
+  {
+    "wordRank": 1045,
+    "headWord": "compensation",
+    "usspeech": "compensation&type=2",
+    "tranCn": "弥补，补偿"
+  },
+  {
+    "wordRank": 1046,
+    "headWord": "dilemma",
+    "usspeech": "dilemma&type=2",
+    "tranCn": "困境"
+  },
+  {
+    "wordRank": 1047,
+    "headWord": "foreseeable",
+    "usspeech": "foreseeable&type=2",
+    "tranCn": "可以预见的"
+  },
+  {
+    "wordRank": 1048,
+    "headWord": "inadequacy",
+    "usspeech": "inadequacy&type=2",
+    "tranCn": "不足"
+  },
+  {
+    "wordRank": 1049,
+    "headWord": "guarantee",
+    "usspeech": "guarantee&type=2",
+    "tranCn": "担保；保证，担保"
+  },
+  {
+    "wordRank": 1050,
+    "headWord": "discrimination",
+    "usspeech": "discrimination&type=2",
+    "tranCn": "歧视"
+  },
+  {
+    "wordRank": 1051,
+    "headWord": "intense",
+    "usspeech": "intense&type=2",
+    "tranCn": "强烈的"
+  },
+  {
+    "wordRank": 1052,
+    "headWord": "facilitate",
+    "usspeech": "facilitate&type=2",
+    "tranCn": "使便利，促进"
+  },
+  {
+    "wordRank": 1053,
+    "headWord": "mislead",
+    "usspeech": "mislead&type=2",
+    "tranCn": "误导"
+  },
+  {
+    "wordRank": 1054,
+    "headWord": "reassess",
+    "usspeech": "reassess&type=2",
+    "tranCn": "重新评估"
+  },
+  {
+    "wordRank": 1055,
+    "headWord": "response",
+    "usspeech": "response&type=2",
+    "tranCn": "反应"
+  },
+  {
+    "wordRank": 1056,
+    "headWord": "essay",
+    "usspeech": "essay&type=2",
+    "tranCn": "散文，文章"
+  },
+  {
+    "wordRank": 1057,
+    "headWord": "stimulate",
+    "usspeech": "stimulate&type=2",
+    "tranCn": "刺激"
+  },
+  {
+    "wordRank": 1058,
+    "headWord": "dessert",
+    "usspeech": "dessert&type=2",
+    "tranCn": "甜点"
+  },
+  {
+    "wordRank": 1059,
+    "headWord": "peaceful",
+    "usspeech": "peaceful&type=2",
+    "tranCn": "平静的；和平的"
+  },
+  {
+    "wordRank": 1060,
+    "headWord": "regularly",
+    "tranCn": "定期地，有规律地"
+  },
+  {
+    "wordRank": 1061,
+    "headWord": "fascinate",
+    "usspeech": "fascinate&type=2",
+    "tranCn": "强烈地吸引，迷住"
+  },
+  {
+    "wordRank": 1062,
+    "headWord": "durability",
+    "tranCn": "持久"
+  },
+  {
+    "wordRank": 1063,
+    "headWord": "discover",
+    "usspeech": "discover&type=2",
+    "tranCn": "发现"
+  },
+  {
+    "wordRank": 1064,
+    "headWord": "constitute",
+    "usspeech": "constitute&type=2",
+    "tranCn": "组成"
+  },
+  {
+    "wordRank": 1065,
+    "headWord": "administrative",
+    "usspeech": "administrative&type=2",
+    "tranCn": "管理的"
+  },
+  {
+    "wordRank": 1066,
+    "headWord": "tremble",
+    "usspeech": "tremble&type=2",
+    "tranCn": "颤抖"
+  },
+  {
+    "wordRank": 1067,
+    "headWord": "ignorant",
+    "usspeech": "ignorant&type=2",
+    "tranCn": "无知的"
+  },
+  {
+    "wordRank": 1068,
+    "headWord": "decorate",
+    "usspeech": "decorate&type=2",
+    "tranCn": "装饰"
+  },
+  {
+    "wordRank": 1069,
+    "headWord": "acquire",
+    "usspeech": "acquire&type=2",
+    "tranCn": "获得"
+  },
+  {
+    "wordRank": 1070,
+    "headWord": "annual",
+    "usspeech": "annual&type=2",
+    "tranCn": "每年的"
+  },
+  {
+    "wordRank": 1071,
+    "headWord": "due",
+    "usspeech": "due&type=2",
+    "tranCn": "到期的"
+  },
+  {
+    "wordRank": 1072,
+    "headWord": "situation",
+    "usspeech": "situation&type=2",
+    "tranCn": "情况"
+  },
+  {
+    "wordRank": 1073,
+    "headWord": "archive",
+    "usspeech": "archive&type=2",
+    "tranCn": "档案馆，档案室；档案"
+  },
+  {
+    "wordRank": 1074,
+    "headWord": "incomparable",
+    "usspeech": "incomparable&type=2",
+    "tranCn": "无比的，无可匹敌的"
+  },
+  {
+    "wordRank": 1075,
+    "headWord": "perspective",
+    "usspeech": "perspective&type=2",
+    "tranCn": "视角，观点；远景"
+  },
+  {
+    "wordRank": 1076,
+    "headWord": "compete",
+    "usspeech": "compete&type=2",
+    "tranCn": "竞争"
+  },
+  {
+    "wordRank": 1077,
+    "headWord": "joint",
+    "usspeech": "joint&type=2",
+    "tranCn": "联合的"
+  },
+  {
+    "wordRank": 1078,
+    "headWord": "overload",
+    "usspeech": "overload&type=2",
+    "tranCn": "负担太重"
+  },
+  {
+    "wordRank": 1079,
+    "headWord": "mechanic",
+    "usspeech": "mechanic&type=2",
+    "tranCn": "机械师"
+  },
+  {
+    "wordRank": 1080,
+    "headWord": "distinguish",
+    "usspeech": "distinguish&type=2",
+    "tranCn": "区别，区分"
+  },
+  {
+    "wordRank": 1081,
+    "headWord": "vote",
+    "usspeech": "vote&type=2",
+    "tranCn": "投票，选举"
+  },
+  {
+    "wordRank": 1082,
+    "headWord": "everlasting",
+    "usspeech": "everlasting&type=2",
+    "tranCn": "永恒的"
+  },
+  {
+    "wordRank": 1083,
+    "headWord": "construction",
+    "usspeech": "construction&type=2",
+    "tranCn": "建筑"
+  },
+  {
+    "wordRank": 1084,
+    "headWord": "aggressive",
+    "usspeech": "aggressive&type=2",
+    "tranCn": "挑衅的，好斗的；有上进心的"
+  },
+  {
+    "wordRank": 1085,
+    "headWord": "classification",
+    "usspeech": "classification&type=2",
+    "tranCn": "分类，级别"
+  },
+  {
+    "wordRank": 1086,
+    "headWord": "melt",
+    "usspeech": "melt&type=2",
+    "tranCn": "融化"
+  },
+  {
+    "wordRank": 1087,
+    "headWord": "detect",
+    "usspeech": "detect&type=2",
+    "tranCn": "觉察；检测"
+  },
+  {
+    "wordRank": 1088,
+    "headWord": "discourage",
+    "usspeech": "discourage&type=2",
+    "tranCn": "阻止；使气馁"
+  },
+  {
+    "wordRank": 1089,
+    "headWord": "combination",
+    "usspeech": "combination&type=2",
+    "tranCn": "联合，结合"
+  },
+  {
+    "wordRank": 1090,
+    "headWord": "grave",
+    "usspeech": "grave&type=2",
+    "tranCn": "坟墓"
+  },
+  {
+    "wordRank": 1091,
+    "headWord": "malfunction",
+    "usspeech": "malfunction&type=2",
+    "tranCn": "失灵，故障"
+  },
+  {
+    "wordRank": 1092,
+    "headWord": "reduce",
+    "usspeech": "reduce&type=2",
+    "tranCn": "减少"
+  },
+  {
+    "wordRank": 1093,
+    "headWord": "respectively",
+    "usspeech": "respectively&type=2",
+    "tranCn": "各自地"
+  },
+  {
+    "wordRank": 1094,
+    "headWord": "forefinger",
+    "usspeech": "forefinger&type=2",
+    "tranCn": "食指"
+  },
+  {
+    "wordRank": 1095,
+    "headWord": "wise",
+    "usspeech": "wise&type=2",
+    "tranCn": "聪明的，有智慧的"
+  },
+  {
+    "wordRank": 1096,
+    "headWord": "background",
+    "usspeech": "background&type=2",
+    "tranCn": "背景"
+  },
+  {
+    "wordRank": 1097,
+    "headWord": "symbol",
+    "usspeech": "symbol&type=2",
+    "tranCn": "象征，标志"
+  },
+  {
+    "wordRank": 1098,
+    "headWord": "quality",
+    "usspeech": "quality&type=2",
+    "tranCn": "品质"
+  },
+  {
+    "wordRank": 1099,
+    "headWord": "repave",
+    "tranCn": "再铺，重新铺砌"
+  },
+  {
+    "wordRank": 1100,
+    "headWord": "downfall",
+    "usspeech": "downfall&type=2",
+    "tranCn": "（雨等的）大下特下"
+  },
+  {
+    "wordRank": 1101,
+    "headWord": "ring",
+    "usspeech": "ring&type=2",
+    "tranCn": "拳击台"
+  },
+  {
+    "wordRank": 1102,
+    "headWord": "planet",
+    "usspeech": "planet&type=2",
+    "tranCn": "行星"
+  },
+  {
+    "wordRank": 1103,
+    "headWord": "pension",
+    "usspeech": "pension&type=2",
+    "tranCn": "养老金"
+  },
+  {
+    "wordRank": 1104,
+    "headWord": "perception",
+    "usspeech": "perception&type=2",
+    "tranCn": "感知"
+  },
+  {
+    "wordRank": 1105,
+    "headWord": "facility",
+    "usspeech": "facility&type=2",
+    "tranCn": "设施"
+  },
+  {
+    "wordRank": 1106,
+    "headWord": "proportion",
+    "usspeech": "proportion&type=2",
+    "tranCn": "比例，部分"
+  },
+  {
+    "wordRank": 1107,
+    "headWord": "involve",
+    "usspeech": "involve&type=2",
+    "tranCn": "卷入，包含"
+  },
+  {
+    "wordRank": 1108,
+    "headWord": "attempt",
+    "usspeech": "attempt&type=2",
+    "tranCn": "尝试，试图；尝试，试图"
+  },
+  {
+    "wordRank": 1109,
+    "headWord": "conventional",
+    "usspeech": "conventional&type=2",
+    "tranCn": "传统的"
+  },
+  {
+    "wordRank": 1110,
+    "headWord": "detailed",
+    "usspeech": "detailed&type=2",
+    "tranCn": "细节的，详细的"
+  },
+  {
+    "wordRank": 1111,
+    "headWord": "interpretation",
+    "usspeech": "interpretation&type=2",
+    "tranCn": "阐释，说明"
+  },
+  {
+    "wordRank": 1112,
+    "headWord": "guilt",
+    "usspeech": "guilt&type=2",
+    "tranCn": "有罪，犯罪行为"
+  },
+  {
+    "wordRank": 1113,
+    "headWord": "connectivity",
+    "usspeech": "connectivity&type=2",
+    "tranCn": "连接，联系"
+  },
+  {
+    "wordRank": 1114,
+    "headWord": "behave",
+    "usspeech": "behave&type=2",
+    "tranCn": "表现"
+  },
+  {
+    "wordRank": 1115,
+    "headWord": "instruct",
+    "usspeech": "instruct&type=2",
+    "tranCn": "指导；教授；通知；命令；"
+  },
+  {
+    "wordRank": 1116,
+    "headWord": "infinite",
+    "usspeech": "infinite&type=2",
+    "tranCn": "无限的"
+  },
+  {
+    "wordRank": 1117,
+    "headWord": "hazard",
+    "usspeech": "hazard&type=2",
+    "tranCn": "危险"
+  },
+  {
+    "wordRank": 1118,
+    "headWord": "undervalue",
+    "usspeech": "undervalue&type=2",
+    "tranCn": "低估"
+  },
+  {
+    "wordRank": 1119,
+    "headWord": "specific",
+    "usspeech": "specific&type=2",
+    "tranCn": "特定的，具体的"
+  },
+  {
+    "wordRank": 1120,
+    "headWord": "appealing",
+    "usspeech": "appealing&type=2",
+    "tranCn": "吸引人的"
+  },
+  {
+    "wordRank": 1121,
+    "headWord": "fitness",
+    "usspeech": "fitness&type=2",
+    "tranCn": "健康"
+  },
+  {
+    "wordRank": 1122,
+    "headWord": "conclusion",
+    "usspeech": "conclusion&type=2",
+    "tranCn": "结论"
+  },
+  {
+    "wordRank": 1123,
+    "headWord": "absent",
+    "usspeech": "absent&type=2",
+    "tranCn": "缺席的"
+  },
+  {
+    "wordRank": 1124,
+    "headWord": "antique",
+    "usspeech": "antique&type=2",
+    "tranCn": "古玩，古董"
+  },
+  {
+    "wordRank": 1125,
+    "headWord": "myth",
+    "usspeech": "myth&type=2",
+    "tranCn": "神话"
+  },
+  {
+    "wordRank": 1126,
+    "headWord": "intervention",
+    "usspeech": "intervention&type=2",
+    "tranCn": "干涉"
+  },
+  {
+    "wordRank": 1127,
+    "headWord": "trace",
+    "usspeech": "trace&type=2",
+    "tranCn": "痕迹"
+  },
+  {
+    "wordRank": 1128,
+    "headWord": "protest",
+    "usspeech": "protest&type=2",
+    "tranCn": "抗议"
+  },
+  {
+    "wordRank": 1129,
+    "headWord": "refuel",
+    "usspeech": "refuel&type=2",
+    "tranCn": "（给）加油，加燃料"
+  },
+  {
+    "wordRank": 1130,
+    "headWord": "tackle",
+    "usspeech": "tackle&type=2",
+    "tranCn": "处理"
+  },
+  {
+    "wordRank": 1131,
+    "headWord": "finance",
+    "usspeech": "finance&type=2",
+    "tranCn": "财政；资助"
+  },
+  {
+    "wordRank": 1132,
+    "headWord": "fine",
+    "usspeech": "fine&type=2",
+    "tranCn": "罚款"
+  },
+  {
+    "wordRank": 1133,
+    "headWord": "indicate",
+    "usspeech": "indicate&type=2",
+    "tranCn": "表明"
+  },
+  {
+    "wordRank": 1134,
+    "headWord": "dissatisfy",
+    "usspeech": "dissatisfy&type=2",
+    "tranCn": "不满意"
+  },
+  {
+    "wordRank": 1135,
+    "headWord": "expand",
+    "usspeech": "expand&type=2",
+    "tranCn": "扩大"
+  },
+  {
+    "wordRank": 1136,
+    "headWord": "spontaneous",
+    "usspeech": "spontaneous&type=2",
+    "tranCn": "自发的"
+  },
+  {
+    "wordRank": 1137,
+    "headWord": "offense",
+    "usspeech": "offense&type=2",
+    "tranCn": "犯罪；冒犯"
+  },
+  {
+    "wordRank": 1138,
+    "headWord": "abruptly",
+    "usspeech": "abruptly&type=2",
+    "tranCn": "突然地"
+  },
+  {
+    "wordRank": 1139,
+    "headWord": "recycle",
+    "usspeech": "recycle&type=2",
+    "tranCn": "循环，再利用"
+  },
+  {
+    "wordRank": 1140,
+    "headWord": "rude",
+    "usspeech": "rude&type=2",
+    "tranCn": "粗鲁的"
+  },
+  {
+    "wordRank": 1141,
+    "headWord": "contribute",
+    "usspeech": "contribute&type=2",
+    "tranCn": "捐款，贡献"
+  },
+  {
+    "wordRank": 1142,
+    "headWord": "embarrass",
+    "usspeech": "embarrass&type=2",
+    "tranCn": "尴尬"
+  },
+  {
+    "wordRank": 1143,
+    "headWord": "weaken",
+    "usspeech": "weaken&type=2",
+    "tranCn": "减少，减弱"
+  },
+  {
+    "wordRank": 1144,
+    "headWord": "mineral",
+    "usspeech": "mineral&type=2",
+    "tranCn": "矿物"
+  },
+  {
+    "wordRank": 1145,
+    "headWord": "sticky",
+    "usspeech": "sticky&type=2",
+    "tranCn": "粘的"
+  },
+  {
+    "wordRank": 1146,
+    "headWord": "challenge",
+    "usspeech": "challenge&type=2",
+    "tranCn": "挑战；质疑"
+  },
+  {
+    "wordRank": 1147,
+    "headWord": "excess",
+    "usspeech": "excess&type=2",
+    "tranCn": "过量，过度"
+  },
+  {
+    "wordRank": 1148,
+    "headWord": "recruit",
+    "usspeech": "recruit&type=2",
+    "tranCn": "招募，吸收；新兵，新成员"
+  },
+  {
+    "wordRank": 1149,
+    "headWord": "overstate",
+    "usspeech": "overstate&type=2",
+    "tranCn": "夸张，夸大"
+  },
+  {
+    "wordRank": 1150,
+    "headWord": "generalization",
+    "usspeech": "generalization&type=2",
+    "tranCn": "概括"
+  },
+  {
+    "wordRank": 1151,
+    "headWord": "hub",
+    "usspeech": "hub&type=2",
+    "tranCn": "中心"
+  },
+  {
+    "wordRank": 1152,
+    "headWord": "conservative",
+    "usspeech": "conservative&type=2",
+    "tranCn": "保守的，传统的"
+  },
+  {
+    "wordRank": 1153,
+    "headWord": "restock",
+    "tranCn": "重新进货，再储存"
+  },
+  {
+    "wordRank": 1154,
+    "headWord": "convict",
+    "usspeech": "convict&type=2",
+    "tranCn": "证明…有罪"
+  },
+  {
+    "wordRank": 1155,
+    "headWord": "deepen",
+    "usspeech": "deepen&type=2",
+    "tranCn": "使加深，加剧"
+  },
+  {
+    "wordRank": 1156,
+    "headWord": "tank",
+    "usspeech": "tank&type=2",
+    "tranCn": "油箱，水箱"
+  },
+  {
+    "wordRank": 1157,
+    "headWord": "negative",
+    "usspeech": "negative&type=2",
+    "tranCn": "消积的；否定的"
+  },
+  {
+    "wordRank": 1158,
+    "headWord": "accelerate",
+    "usspeech": "accelerate&type=2",
+    "tranCn": "加速"
+  },
+  {
+    "wordRank": 1159,
+    "headWord": "territory",
+    "usspeech": "territory&type=2",
+    "tranCn": "领土，领域"
+  },
+  {
+    "wordRank": 1160,
+    "headWord": "impact",
+    "usspeech": "impact&type=2",
+    "tranCn": "影响"
+  },
+  {
+    "wordRank": 1161,
+    "headWord": "distraction",
+    "usspeech": "distraction&type=2",
+    "tranCn": "分心；消遣"
+  },
+  {
+    "wordRank": 1162,
+    "headWord": "resolve",
+    "usspeech": "resolve&type=2",
+    "tranCn": "解决；下决心"
+  }
+]
